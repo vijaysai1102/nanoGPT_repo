@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS16_MI1000_D20_s22
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is so be mad the bube ton.
+Sagrt I Mucht hand bar ha he us he he.
+War dilth ate ar crom he fand tom o mup
+Yownt, tof is he me mil now
+Wh, e miree sen cin lat Het drov the and the 
+---------------
+ nor that and welll nore al.
+MARD:
+The my sothe hais plow you lom, she Boupese aves
+Ang the the tou kleo Wind tour Ceiingh the m dourive
+Angh ire sthoou o the the the dantert the sor; igr the:
+Ed thy a
+---------------
+ le ont thar Prind my o my thy sur!
+
+GOLONI:
+Ward al the Ede she din cour ay andy Ire toul
+An theve youn pand, bemar.
+
+YIXARWO:
+I tha so a an hind---nomes the thilr and tho meald
+Th the wethe I thim sc
+---------------

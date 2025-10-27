@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS8_MI1000_D10_s17
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is sore thad seak obe ton.
+Sagrt I thealled
+My ar haphe us he hent ar dilas ate aw crup andfond,
+An o mupe owns moof is hear thil thill,
+We miree sen cin lat Heaid ov the and the 
+---------------
+ nor that and welll nore and thull onch by prupriness
+Whe you lour she amopeserg downd thy woul tourk
+To Wind tour Ceiingh the myoour ou wind imed thoous
+And or unot and thrupt f soro iris!
+
+
+RENGCIORI
+---------------
+ leront ffard ared my o my and sup!
+
+GOLONIU:
+Ard al the are she din cour ay andy Iry toul
+An thove youn pand, bemary.
+
+HARIRK:
+I tha so a an hind---nomes the thilr and thow an in with theer ome.
+
+
+CME
+---------------

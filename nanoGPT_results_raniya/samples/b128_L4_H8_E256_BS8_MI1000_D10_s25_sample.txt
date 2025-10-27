@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS8_MI1000_D10_s25
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bride will that feath
+baiden bube to take rud my datced
+My arthip foul him to bard that ane away,
+And have a wize our to the to that come milend to caus it ent.
+
+AUCOLO:
+Hered overs, and the 
+---------------
+ now the wat thelf in you like she coure:
+The priness hiw you lord's nor of this death:
+I should that mort not what piing of a my ourther,
+This now poor of his butt kingng the prise;
+And he must with a
+---------------
+ lepont the deared my of that be and to
+but and dath the are stainin cour aare ny breath
+In conf to young to to my grivent of that hans haven his.
+
+DUKE OF ENTHARD:
+Thy shat such me the weth one.
+
+
+COR
+---------------

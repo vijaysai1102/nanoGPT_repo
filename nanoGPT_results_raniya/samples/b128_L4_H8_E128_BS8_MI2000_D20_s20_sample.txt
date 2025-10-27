@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS8_MI2000_D20_s20
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rordwch.
+
+SOMOLIUS:
+What is that you etarth the the gatanss:
+Whith fould word. Whe dill wate arch, my feanstar,
+God me to the to fir heart milend the begrivee:
+You in lad Heard ove the the kno
+---------------
+ now the wars!
+
+AUll First Selven: my with stay have plow you love.
+I may pater'd sond thy would that mort not wher prible to the
+Muring and him he poor of his bute king thrught
+I'll sir. Where the you
+---------------
+ lepont that Prive my of the houre!
+
+GRICHAR:
+Saday Wich Edwest honourst any and your to chan thee.
+
+MOREO:
+Whose, grives your gace mest a and seeme?
+
+TARWICK:
+Whereand the may dist the weth or the muc
+---------------

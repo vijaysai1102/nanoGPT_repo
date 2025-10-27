@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS8_MI1000_D10_s9
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bride will to lifest madere
+The ext encerven'd the gatents: and him us him to bard:
+And ane awith my fearstat my to heave
+some for the commilend ling egriveent, I in latient,
+What the the kno
+---------------
+ now the wars well in you like she coure
+You combains hiw you lord.
+I crouder: and whould should that
+To Will to deariing of a my our will now;
+And pooche him the deard nobrefure son; wore whe the do a
+---------------
+ lepont this Prive my of the his beart
+Shougan adst my that for him be to aare.
+
+CRIUS:
+So for Edvery, no that be broy how come beear of a they
+No-sent forther'd madand the may dies the were one.
+
+Thuc
+---------------

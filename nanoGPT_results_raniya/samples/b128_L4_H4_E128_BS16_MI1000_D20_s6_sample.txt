@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS16_MI1000_D20_s6
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the
+Thow and is so be madisen bube tontanth ther mealind
+he ar hapar us he henthar dilancanes wice my.
+
+ODER:
+An hemure ownt mat tis he me mil nown that miree senghin lat Heaid ove thand he lo
+---------------
+ nor that and welll nore al.
+
+KINCHES:
+Any whave ais plow yo whe mal nor
+Toute ave whould shod moth keeo Wind tour Ceiingh the myourr wis ind ime sthoou o the the thead nontur af sor; igr the:
+En thy a
+---------------
+ le ont thaf Prind my o my and suporstied
+I ar adat cow hare she din cour ay and
+Hiry the han theve youn pand, bemar.
+
+YLIO:
+Whas tha sour an hind-s nomes the thimr and thowng tin soth the y orend ourc
+---------------

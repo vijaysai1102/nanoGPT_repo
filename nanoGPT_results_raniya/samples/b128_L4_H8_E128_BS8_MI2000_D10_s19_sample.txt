@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS8_MI2000_D10_s19
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bride.
+
+KING RICHARD II:
+Pet you, and and O-dard'd gatenss:
+Whith foul her very comenthous, are the hear's a will our
+Your proof is here this nowll, and is endent,
+A latiser drove the the kno
+---------------
+ now the warm!
+
+AUlind Cacule:
+My would by stay have plaw you love.
+I may pater'd sweept your to thake of in on her evices
+To the our farce his end poor of heare
+To known brucked so; sir, the father in
+---------------
+ lepon,
+That Pried my of the hour hart you say aday.
+
+DUKE VINCENTIO:
+Nor maranes, repts I commfores, the to skeembry.
+You come withm so a and seement; and were thread?
+
+BUTUS:
+Whe wilt well one.
+
+Thuc
+---------------

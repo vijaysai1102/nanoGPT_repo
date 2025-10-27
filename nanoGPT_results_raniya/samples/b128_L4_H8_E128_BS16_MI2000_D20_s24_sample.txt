@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS16_MI2000_D20_s24
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the not
+whow and is to be madiser but of encesh the the gate
+he ar him foul him to bar dinghow endr crome.
+
+HENRY ANGENTIO:
+I the to fir here this nowll, and is ensent,
+A lad Her dieve the the kno
+---------------
+ now the wars!
+
+AUll die and the my deave spear the splaw you love.
+In Bood this dest my liked mother
+To Will the the is son a my our far gencereds poor of his bute.
+
+MINENIUS:
+A so;
+And here for thy f
+---------------
+ lepont the dear?
+
+KING ENGHENRY VI:
+Will is ward a my that for him best any and
+Hiry the have for his no to the mary thou come beent so a and see--
+KING RICHARD III:
+Resement I her the were one wild c
+---------------

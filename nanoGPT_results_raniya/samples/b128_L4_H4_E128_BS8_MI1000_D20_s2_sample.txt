@@ -1,0 +1,22 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS8_MI1000_D20_s2
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the thef trid owingh is sore thad seak obe tontanth ther mealatanss: manth fous he he.
+PARY:
+And ate ar cromy thand arom orou thowns, tof isthe me mil nowin,
+We miree senghin lat Hetharev the and the 
+---------------
+ nor that anous lor noree lit hule cechiry: thar aiss hewhy mell ave nor
+Toute ave whomery wod mothak
+To Windo whe Ceiingh the m dourive ce hidend thoous
+And sthe the danthrup af sor; iris whef thin in
+---------------
+ le ont toff Prind my o myourd,
+Tharst you aknordst Wis hare sout in cour ay aney iry tof han theve yo ne tor keemar.
+
+YIXARRK:
+I tha sour an hyou---nou bethe thilr and thownge in soth thethe I thim sc
+---------------

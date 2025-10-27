@@ -1,0 +1,24 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS8_MI1000_D20_s18
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcowind thall,
+He mat set bube tontanth ther mealied
+he ar hapar us he henthar dilth ate ar crim and
+Than om o mupe owhavetof is he me mil thilll,
+Wh iree sen cin lat Heaid ov the and the 
+---------------
+ nong iserans!
+Al lind me lit huce co hiry prupr aiss hew yo whe mal nor
+Toute ave whom
+I shod mothakllo Wind tour Ceiingh the m douris hangh iend the hal the theath ad nonrth af sor; iris whef thin in
+---------------
+ leront ffaf Prise my o myrang,
+Tharst you akn adat Wis hare shevein cour ay ane
+Hiry thechan theve youn pendoke mar.
+ANIXA:
+Whas tha sour an hind--pend bethe thilr and that an in soth thetis
+I thim sc
+---------------

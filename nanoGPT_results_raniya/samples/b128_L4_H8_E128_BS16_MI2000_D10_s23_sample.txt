@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS16_MI2000_D10_s23
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord cown,
+The lady the a sen but of encesing the day,
+and bard that us he had bard that ane away,
+And have a will our to the to figne be this now
+Whices is entents will is the overs, and the 
+---------------
+ now the was of like die; let he me deaven:
+Sup the speak you lord.
+I may peak a dest my like to that
+mort not when evices the more rive cousiden
+And of my his but that nobre the so;
+And he must with a
+---------------
+ lead the shall should? I am his and to being
+ard a my that for him be to marches it his chan thee.
+
+MENENIUS:
+And good shall his that bear her of--
+
+LAUFIUS:
+Well, and thou such sworn the couds.
+
+Thuc
+---------------

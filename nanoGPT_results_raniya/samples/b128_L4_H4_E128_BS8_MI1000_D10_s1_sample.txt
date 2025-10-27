@@ -1,0 +1,31 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS8_MI1000_D10_s1
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcowilld is so be madisen bube tontanth ther mealled
+he ar hap fous he he thar dilth ate ar crim andf's arom orour
+Yowns mat tis he me mil nown that miree seng,
+A lat Heaid ov the and the 
+---------------
+ nour iser bousel lind thall thus wouch by prupe aiss
+Whe you lomake normode tor deand thy woul tourk
+To Wind tour Ceiingh the myoour o hand himed thoou ower;
+Whe the dandert the son; wor the:
+En thy a
+---------------
+ le ofth,
+Mad she gronom.
+
+HKING E!
+KENG &
+
+IUS:
+Fal your ge she din cour ay andy Iry toul
+An theve youn pand, bemar.
+
+YIXARWO:
+I yom sor ton hyou---nomes the thilr and thow and he win the your,
+Thourc
+---------------

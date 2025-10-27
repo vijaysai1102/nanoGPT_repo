@@ -1,0 +1,35 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS16_MI2000_D10_s31
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be love to be set bubbey.
+
+CLAUDIO:
+My lord,
+My Lord, I put have been to law and from when have
+not more heavens, to than I could help
+Than slipse the contraity tidious speak;
+Wher
+---------------
+ now the wantoness and peace
+His mistress spect bairs him you: sir.
+I was patiently hope you, like again.
+
+CORIOLANUS:
+The words of this chastience of him shall be prayen,
+Turn for the great of think a
+---------------
+ let him,
+Madam, we will that be and to be said,
+False in a foul of the king's name,--
+
+SICINIUS:
+Now, no more be arm.
+
+HENRY BOLINGBROKE:
+Be his men, my lord, I lord, sir,
+Who is so not us body. I muc
+---------------

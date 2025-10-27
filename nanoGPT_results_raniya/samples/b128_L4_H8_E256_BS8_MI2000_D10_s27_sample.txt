@@ -1,0 +1,31 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS8_MI2000_D10_s27
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be love the die of Backingham.
+One my daughters: thou hast queen but coment
+Have sworn my faces and morn heavens, to than I comman;
+And that misters not mine is the overeign.
+
+WARW
+---------------
+ now on that speakly die; let him would by preperates
+With faces and nor do this love more world than
+To Willo do their should made rives in him conscount the rest:
+O danger fire so; sir, there's fearf
+---------------
+ let at the dear?
+
+KING HENRY VI:
+Hasting is a point the Earl of England's are.
+
+CRICHARD:
+An thou wilt me not be broken for thy death!
+
+SICINIUS:
+Well, by we met ready the cause
+To the world I would c
+---------------

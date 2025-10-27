@@ -1,0 +1,39 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS8_MI1000_D20_s10
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord cown,
+The love the a sen bube to take rup my dagatan.
+
+LAUCETINN:
+And hert?
+
+MEXENIZENENTE:
+Havere, not thy hem he ownt, to that come milend;
+Whate miree sent in latient drovers, and the 
+---------------
+ now the wath well in you lie hear courme.
+
+DUKE OF VOF VINTI:
+My muse and and a dearting the thee ake of in on her piingse,
+And do rive wild ime strow to the the deard nonture for the
+my the florte ma
+---------------
+ lepont the dear?
+
+KING HUS KING ERD VII:
+I ar ad al the are stainin cour aart.
+
+CRICHAM:
+Af my carend nepent knembry.
+
+HESTRWINRD IV:
+That henser---
+
+Nord were threaty shat sucke with liest one.
+
+
+CAR
+---------------

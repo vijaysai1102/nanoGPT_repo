@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS16_MI1000_D20_s14
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord cown, which feath
+be the bode to take rud my call and bard
+thee us hat the ar dinghtates with my facks,
+And of my to the to fithe be this now
+Whice miree sentcin latiser drove the deave t
+---------------
+ not the wars well and the deence, on him spear;
+Or shelf you loke she rad and a death thy would that
+To Will to deCerious the my our farther in he past
+The for und known nrupt for the greant:
+Edwith a
+---------------
+ lepontates dear?
+
+KING HENRY VI:
+Hart you say aday my the he movein coure
+are no it his chan the of know that be ary.
+
+HENRWICK:
+Shat beare my lore not be we thim tand the sup in so not
+Stived, with c
+---------------

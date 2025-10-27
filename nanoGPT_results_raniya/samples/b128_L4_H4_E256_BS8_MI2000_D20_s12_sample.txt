@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS8_MI2000_D20_s12
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field did own,
+The lady the dispok of our take ruder me?
+Leave be that foul have been to lady,
+But conduct than a will must of the cause heart milend;
+Which mine, since mild is the loves, and the 
+---------------
+ not the wars!
+
+AUFIDIUS:
+The husband with a carraise him young make not
+To this death: the shall be leove not what evices to them,
+Will never me strong of his but to day,
+The prison; and the father in
+---------------
+ leave, that Priva my of the good
+Hasted did wards be his grace hois courrs.
+
+ANGELO:
+The hands care of my lord, marry in your gavest so a commper-speak;
+But with ready the causin so not us.
+
+ISABELLA:
+---------------

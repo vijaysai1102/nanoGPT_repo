@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS16_MI1000_D20_s30
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the me,
+The fach is the the a see bode to take rup my call.
+
+MENIUS:
+Whe us he hert?
+
+MEXENIO:
+I sway, my fearst to zonous
+You shat for the comme welll that mire, sen comelat;
+Frive Grot, and the 
+---------------
+ now the wars self: not was the he course.
+
+SICIM:
+The lety morre, she roupe that sond thy would that
+To Will to do evicks the my our farce his now poor of his but
+That not the for trearth whe the dain
+---------------
+ lepont the dear?
+
+KING ENGHARD I:
+What by say adate the age stainin cour and tey brout
+me from care, the to sknembry thou come and me
+That hense of your he reath.
+
+CORICETIUS:
+Whe will weth one with c
+---------------

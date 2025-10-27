@@ -1,0 +1,36 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS8_MI2000_D10_s11
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ speed in this swearn is sorrow
+This way be died man them with hands:
+Whith foul have been to lady, ever crown.
+
+HENRY BOLINGBROKE:
+Now, for I can this now
+Who even well not mild is the overs, and the 
+---------------
+ now they about less diseal.
+
+KING RICHARD III:
+Marcharity, my lords know pater's gone:
+I would to keep an will be Coriolanus.
+
+FRIAR LAURENCE:
+But past of his but that noble the son; I know not with a
+---------------
+ let at the dear?
+
+KING HENRY VI:
+Hark, by that day my lord, statute courtey
+And your banishment and know that see shall be not
+In have no me hight power.
+
+GLOUCESTER:
+Your may be so not us.
+
+ISABELA:
+
+---------------

@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS16_MI1000_D10_s5
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rorid owild, is by be madire,
+To you enaveg the thealled
+he ar hapar us he he thar dilaccanes wiced you,
+Than wizorou thowns, tof is hear thil now
+Whane miree sen cin lat Het drov the and the 
+---------------
+ nor ond wan thel lind teal.
+
+KINCHNG HARY:
+Aur hais thew you lome.
+I you pate ave whould swod moth kleonW---
+Fourt eiingh the my our wis ind ime sthe halll-f the the dandert,
+If sor; wor the:
+En thy a
+---------------
+ le of whe fis red my o my and,
+Tharst you ake adst cang are stovein cour ay and
+Hiry the han theve youn pand, bemary.
+
+LICERK:
+I yom so a and sevis nomes the thimr and tho mus in so a the your,
+Thourc
+---------------

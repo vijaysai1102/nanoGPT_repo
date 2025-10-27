@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS8_MI2000_D20_s4
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romince.
+
+SOLO:
+The the ader my be to take rup my dagatanss:
+Whith fould word. Ward that ane away, my feanst,
+And to he ownt, to fit he commilend like
+Whill ensen contle is the ove the the kno
+---------------
+ now the wars!
+
+AUlind that the he couriny: the have plaw you love.
+In Bood this dest my liked mother
+To Will the the is son a my our farcencedence poon of he the deard;
+And firs son; ign the fath dain
+---------------
+ lepont the dear?
+
+KING ENGHENRY VI:
+Will is wards be his grest hoin cour aare.
+
+CIRINIO:
+And you! will my not be bry thou come, my mest a and see--
+KING RICHARD I:
+Thy shall be he will well one.
+
+
+COR
+---------------

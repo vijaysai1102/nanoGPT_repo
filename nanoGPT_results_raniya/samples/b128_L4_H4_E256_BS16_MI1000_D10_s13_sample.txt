@@ -1,0 +1,37 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS16_MI1000_D10_s13
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romide.
+
+KING RICHARD II:
+Pet you, and and Ond my day hands:
+Whith foul he hert?
+
+MEXENIUS:
+Why crome.
+
+HENRY ANGEY:
+That the to that I comme welll but grive,
+Eve contlatiner drov the he kin t
+---------------
+ not the wars!
+
+AUll dies here she course speak have plaw you love.
+I came and a dest my like to that
+To Will to deCerious the more rive we his now poop
+The for under of thruse for trear. Where the pra
+---------------
+ lepontates
+Marre grow? I am his and to by say aday.
+
+DUKE VINCENTIO:
+No amaraney, repts I come care,
+On part, be ary thou contranthm so a and see--
+Some he reath.
+
+CORIOLAO:
+Be he wilt we your the muc
+---------------

@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS8_MI1000_D20_s26
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the my you will that feate
+be the bube to take rup my dagatanss:
+Whith fould word that dinghoates with my feanstar'd of my
+You sproof is heart mill dill, and is ensen comilatient,
+What the the me 
+---------------
+ now the wat thel lind that this my deave sprage aiss
+Whe you love us ormope that sond thy would thak
+And in o what pribase, and bothis his hiseng the haver.
+
+Serve kingngntury for the greand:
+Ed thy a
+---------------
+ lepont that Prive my of.
+
+HENNGIER:
+Wild is wards be his grest hoin cour and tey breat
+Whoul the wild neears, be bry thou cont beeam sorn and see--
+KING RICHARD Ardand the must he will weth one.
+
+
+COR
+---------------

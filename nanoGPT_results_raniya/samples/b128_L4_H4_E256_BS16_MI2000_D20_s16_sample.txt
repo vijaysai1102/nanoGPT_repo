@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS16_MI2000_D20_s16
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field of cord,
+The lay be made of bury to take and my cold.
+
+MENENIUS:
+My lord, they comelance enjoy.
+
+DUKE VINCENTIO:
+No, York, my faith, but my father, and if the neck.
+
+SICINIUS:
+Good and me no
+---------------
+ now the ways well and the deeds;
+How will prayers so him you love's nor does,
+And who thy world that more not what evices to the
+Murder cheeks enjoy of my hours
+To known not the son; if he must with a
+---------------
+ leave,
+That Prince you murder, be are you as
+are a cured and this honour and tell repts
+In you can you must not marrity from the world;
+Shall see-speak by we this daughter's blood.
+
+QUEEN ELIZABETH:
+S
+---------------

@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS16_MI1000_D10_s29
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romed of and is to be madisen bubed and
+Sthall my dagalanss: and his us hall belaced?
+
+DUKEe OF YORK:
+Thank a wize our to the to fight be this now
+Whice mire, sen mintle is the ov the and the 
+---------------
+ not the wars!
+
+AUNGET:
+The the he courly so againsss hiw you lord.
+I came and a desed thy would that
+To Will to deCeiizes to the our will now;
+But pooce were the deard nobre the so;
+And he must with a
+---------------
+ lepont to firsh?
+
+KING HENRY VI:
+Harther is wards be his grest him be to a rand
+Hiry to chan the of kning on knemany.
+
+HESTRWIM:
+That bearth his me not be we this tand the cauld
+To the we your the muc
+---------------

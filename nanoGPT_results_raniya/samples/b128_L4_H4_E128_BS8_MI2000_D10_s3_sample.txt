@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS8_MI2000_D10_s3
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romed of and is and the a sencural to take
+On the day hands arthip foul him to bard:
+And ane away, my father, when must of the of it here this now
+Whices is ensent in latiser drove the the kno
+---------------
+ now the warm self: not who the he course
+To cartains him you lord.
+I camon this well my low, the make of in on her pricks to the
+Murntal in him he pooppler-for under of thruse,
+I'll sirver my montey a
+---------------
+ lepon,
+That Pried my of the his and to by say aday.
+
+DUKE VINCENTIO:
+Nor my and your to chan the would me:
+Who, mary thou come when hobear; my lore?
+
+TRARS:
+Then ready the make her the well one.
+
+Thuc
+---------------

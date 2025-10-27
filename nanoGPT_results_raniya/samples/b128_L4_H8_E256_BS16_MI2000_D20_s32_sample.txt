@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS16_MI2000_D20_s32
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will that you are is to Backingham:
+One my comforth bard that us have been to lady,
+But conduct have a be of my town from the comme and more
+As ever we sent in this maids, by which in t
+---------------
+ now the wail!
+
+AUFIDIUS:
+The husband with a crown.
+
+MENENIUS:
+Mark, nor of this love many world that
+To Will not their as the most rive with in his sounds,
+Some heart my brust for the great of the pin
+---------------
+ leave,
+To fight? good mething some still is a post of the heart:
+If this a gates it best have for the great of Rome.
+
+CLARENCE:
+O have no me his men of between throat strong;
+I have not us body with c
+---------------

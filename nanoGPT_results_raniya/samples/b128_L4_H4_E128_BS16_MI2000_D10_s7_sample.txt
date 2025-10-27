@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS16_MI2000_D10_s7
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the from cown,
+The lady the diser but of encesint.
+
+MARCIO:
+
+My LAUCIO:
+Nursh, I belaced lads, endrace my father,
+And to heavent, to that come my held
+Whices is ensent in latiself; overs, and the 
+---------------
+ not the was thelps not ward the me;
+But you can and the tyben's not know pater'd
+The pless of mother more not when evices the most
+Will with in he poopples for unthe dander farfor the
+greath: the daug
+---------------
+ leave,
+That Prient I am.
+
+HENRY BOLINGBROKE:
+Should the Edward hath cour and tey brother,
+And for the neever king rumpones' the deam so a the see--
+Shall the me madany the cauld me the were of the muc
+---------------

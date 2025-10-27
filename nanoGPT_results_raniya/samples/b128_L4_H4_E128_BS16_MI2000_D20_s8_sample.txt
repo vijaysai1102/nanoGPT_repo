@@ -1,0 +1,36 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E128_BS16_MI2000_D20_s8
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romince.
+
+SOLO:
+The the a see boare we and rud my dagaia
+My arthip foul him to bard that ane away, my feand
+ar my to he own proof it here this now
+Whate miree sent in lad Her dieve to he king 
+---------------
+ not the wars!
+
+AUlind that the he courly spear; and the ty mole
+Par not of this dest my like to that
+mone not wher pricks the more rive coush me strow.
+
+ANGELO:
+The what not the son; if his shall do f
+---------------
+ leade,
+That Pried my of the houre!
+
+QUEEN ELIZABETH:
+That he mording must are no I would have for his nee:
+Who sirry.
+
+HENRY VINIURD I:
+Hend his me not bet some madany?
+
+HORTENRY BOLINGBROKE:
+End my c
+---------------

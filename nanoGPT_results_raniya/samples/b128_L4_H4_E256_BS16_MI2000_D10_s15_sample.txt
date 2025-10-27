@@ -1,0 +1,37 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H4_E256_BS16_MI2000_D10_s15
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the time to devil,
+The law be made of boar to take and my cold.
+
+MENENIUS:
+My lord, my lord:
+It was, away, my father, and I make thy moof intend
+But where I was mirted by mine at Hereford the deed?
+
+G
+---------------
+ now the wails. And now, and like it child:
+Supplains him yet love's know to blave whom
+Is would that more no hour Coriolanus.
+
+FLORIZEL:
+No, goes to-day: I have
+you are thrust for the great of the pin
+---------------
+ let him,
+Madam, we will.
+
+HENRY BOLINGBROKE:
+Sads by his great hunt courtesy tears,
+And I come to his needs our marriage.
+
+ROMEO:
+Am so a changed-foot, by well throat strong blood.
+
+QUEEN MARGARET:
+My
+---------------

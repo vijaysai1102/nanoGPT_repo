@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E128_BS16_MI1000_D10_s21
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcowild, is so be madire,
+To you enaveg the the tatange: mant he usque,
+Anty cedelancanes wice my thand arut o mup
+Yownt, tof is hear thil nown that miree,
+Ing in lat Heaid ove thand win p
+---------------
+ nor the wand welll nore; he thull cof my soth
+That salle you lome.
+I nomode sigh sond thy woul tou kleo Wind tour Coricke tour
+Forstive and hime sthoou o the theath and thruptef sor;
+Tor the:
+En thy a
+---------------
+ le ont to fis.
+
+CORIS:
+Nor forsea! stoud is wardst Wis hare sto din cour ay
+Andy Ire toul fo thove youn pand,
+And gyor seacent and mesore an hind--pond bet of therdand?
+
+HORD KING CENGENCAUTIIE:
+I muc
+---------------

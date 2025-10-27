@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L4_H8_E256_BS8_MI2000_D20_s28
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bring will be of,
+Here a sen bubech enament and the caause:
+Whith foul hath bed reding of enjustion and not,
+And I make the moove to commornity in thee mire
+The king ladish in overs, and the 
+---------------
+ now the was of lord die; let he me not by preperains
+With fance and not do this death:
+If would that more not what evices to the curt,
+The shall stand me shall be that noble the so;
+And he must with a
+---------------
+ lept the pair of thy offer;
+If be are you say adval the Edward's in course.
+
+ANGELO:
+The hands cared the son, and grave for thy keep of a they
+To-monsuful we men.
+
+KING RICHARD IIII:
+Have your the muc
+---------------
