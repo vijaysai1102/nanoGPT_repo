@@ -1,0 +1,37 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS16_MI1000_D20_s14
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romidcord,
+The lay be mader to of our take Our my dagatanss:
+Whith foul he hert?
+
+
+CORIOLANUS:
+Here you, not to zo must of the of is hearth!
+Where in a grives the commest Hered ov the do be lo
+---------------
+ now the warm!
+
+AULUS:
+I could she courmby stay; and the ty more
+Had not of this death:
+I should that mort not our Comions to the
+Murch have him he poop of his butt king thrught! I no word!
+
+
+REO:
+I ma
+---------------
+ lepont the dear?
+
+KING ENGHENRY VI:
+Will is wards be his grest hope cour a rate
+Hire to commen the wound to to me grives.
+
+WARD OF YORK:
+Beforse me not bether's madany the may dised
+The us boden in th
+---------------

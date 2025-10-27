@@ -1,0 +1,36 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS16_MI1000_D10_s13
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romince.
+
+STAOLY:
+As that set but our take Our my day,
+and be that foul have bebar dile
+Have away way.
+
+GREMIO:
+God me
+You shall time come mild dill caes it eye.
+
+AUTOLYCUS:
+Allove the dead no
+---------------
+ now the was thelpland that the he course to comen.
+
+MENENIUS:
+That I came and at good thy would that
+To Will the will by the the crail hand
+To now poor my how but that nobre the so;
+And he must with a
+---------------
+ leave, that Prive my of the house!
+
+GRESCE:
+Whad all her grace hois cour and tey brout
+most my care, the son, be are thou come be hand;
+Shall see-speak be we the ready should conse the well of
+the muc
+---------------

@@ -1,0 +1,35 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS16_MI1000_D10_s29
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridle.
+
+SOMERSTER:
+King God More to take Our my dagalanss:
+Whith foul have but he that a endrace my fafther.
+
+GLEOUCESTER:
+Make is her to slanding, and is entent,
+A ladist in overs, and the 
+---------------
+ now the way spelf: no me like she country:
+As that speak you lord.
+I came and a do hope.
+
+EDWARD:
+If more not where is all of my crown:
+And him compos more for under of thrust for to so.
+Where the pra
+---------------
+ lepost the dear?
+
+KING EDWARD IV:
+Brow, did wards be his great honours.
+
+DUKE VINCENTIO:
+Aff you! who no to so, marrith face, god hat
+That herse of your here the reaty should consent,
+The consent of c
+---------------

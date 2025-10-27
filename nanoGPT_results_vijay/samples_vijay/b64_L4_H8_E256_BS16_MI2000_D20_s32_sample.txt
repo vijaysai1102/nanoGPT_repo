@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS16_MI2000_D20_s32
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the comfort
+The face of the servanted bubecause as Oxford:
+What he bard thy put of his back that and sweet my face,
+and when he own his faither could well me,
+Which ever he will is the overs, and the 
+---------------
+ now thee justice lind the deliver of him.
+
+DUKE OF AUMERLE:
+Here is not do this death:
+I will met ake on the hour Coriolanus.
+
+FLORIZEL:
+No, if he paor of his guard and thrums for the
+great of think a
+---------------
+ leave, that Prison, Sometham, so, as the is a roath
+As happy to discontraction, but I say and for his need.
+
+QUEEN ELIZABETH:
+That may have myself poor between throws them
+When he will we consent of c
+---------------

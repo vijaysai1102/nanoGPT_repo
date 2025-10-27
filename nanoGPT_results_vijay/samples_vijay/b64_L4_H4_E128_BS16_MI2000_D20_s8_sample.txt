@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS16_MI2000_D20_s8
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rome cown,
+The lay be madiser but of encatiOn.
+
+MENIUS:
+
+My Lord, I puse a hert?
+
+MEXENIO:
+I swell my fached, with must of the of is heart milend;
+What sing enden contlain: there by beath the 
+---------------
+ now the wars!
+
+AUling me like untron him spear the speak you love.
+I camon this dest my like to that more cound thy is all of my
+Murnie conshired thou more for under of thrust for trear.
+Whou mone you
+---------------
+ lepont that Prient, So my and so hart
+So is a and bear have staidin cour and tey breath
+I commfore you me not be ary thou contranthm so a the see-spect;
+But with ready thou such seet the gread, with c
+---------------

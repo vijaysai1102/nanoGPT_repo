@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS8_MI2000_D10_s11
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be law been a senatory and and rude
+Much a dust arm that us arm them come.
+
+HENRY BOLINGBROKE:
+There of my lords, to that I command did but so.
+
+AUFIDIUS:
+The Harry over pardon me 
+---------------
+ now the was of lord die; and he made him speak;
+Or speak you love us that a kindless of your look
+Inter Will not their should make the Tower,
+We strange were the day of thrust for arm
+The world with a
+---------------
+ let him, and she grow? I am I see!
+
+JOHN OF GAUNT:
+We is a forth in courtear tears of such
+To for his needs our married from his eye so,
+Been seem not fortune in ready the cause
+To the were of the muc
+---------------

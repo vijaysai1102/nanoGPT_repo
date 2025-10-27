@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS16_MI1000_D20_s22
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is the the a seak obe to taveg
+Sand that haus bar hiphe us he hent?
+
+MEXEND:
+Ae arche my thand ar mzorou,
+Yowns moof is he me mil nown that miree sen cin lat;
+Frid ove thand him t
+---------------
+ nor the wat thel lind thal.
+
+KINTH:
+Buly sot priness hew you lom as nor
+Tot thave whould thou moth kleouWind tour Ceiingh tour
+For rive win hime sthou mower; the the bantert,
+If sor; igr the fot thy a
+---------------
+ lepont thar Pried my o my and,
+The stoud is wards beaces and thidin cour ay and
+Hiry the han theve youn pand, bemary.
+
+HARIRK:
+I tha so a and severen; and weane mreand thour be he win the your
+Our muc
+---------------

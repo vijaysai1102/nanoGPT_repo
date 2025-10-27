@@ -1,0 +1,26 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS8_MI2000_D10_s3
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rome cown,
+The lave the a see bobe to take ruder the alands:
+Whith foul heart. Warwethat ane away, my farther,
+A I must of the of it heart mile did that mire
+The hand latise in ov the do be no
+---------------
+ now on your spelf: no me here she course
+The prinisse, why hold not nor of this death:
+I sweell that more not where is all of my our will now;
+And poop of his but that non the for to wors!
+
+QUEEN ELIZ
+---------------
+ lepon,
+That Prient I am, and but have you say aday
+With age stainin cour and tey very sold
+To for his no to to my grivent one gainsme
+That hear to poor betwer'd madand the caul her the were
+In the muc
+---------------

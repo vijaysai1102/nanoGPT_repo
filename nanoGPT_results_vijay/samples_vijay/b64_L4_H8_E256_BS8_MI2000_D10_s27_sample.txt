@@ -1,0 +1,26 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS8_MI2000_D10_s27
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be look the disposion of each.
+One my dage and bard that use a break heath.
+Have sweet my father, when must of the king,
+I best it now my bestires sent, will it this virtue,
+Which 
+---------------
+ now the way of like him; and he made him speak;
+Or speak you lord.
+I cannot sign so be my woes to kill and so duty:
+I beseech you, and have him he poor of his guard,
+And nrumine so; sir, there's thy f
+---------------
+ let him, and she grow? I am your happy
+bring ardine the Edward's in courter's noble-brother, and me,
+The lord of a your face, gament of a celse;
+And when the mettress mayst be disson'd with one.
+
+Thir
+---------------

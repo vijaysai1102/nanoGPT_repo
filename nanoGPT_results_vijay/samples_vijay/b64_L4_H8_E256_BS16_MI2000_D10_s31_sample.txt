@@ -1,0 +1,26 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS16_MI2000_D10_s31
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the time to descrace in the truth,
+That be done man that we lie us barneth foul hath
+but come that endrection.
+
+HENRY BOLINGBROKE:
+And of this both! What like even we sentend lady:
+Give me to her the 
+---------------
+ now the way of loving that thou much have stand not plaw
+you loved I can pater'd son, thy world thanks
+all so duty evil so, and by the Tower,
+We stand to the restrain mother, I would not say:
+'Tis you
+---------------
+ let him, and then I have resign.
+Hasting is a roath and Edward's in courage,
+And I will consul! I will my name, I shall be not
+In hander to myself and fortune in reason; and be he will surpe
+In him sc
+---------------

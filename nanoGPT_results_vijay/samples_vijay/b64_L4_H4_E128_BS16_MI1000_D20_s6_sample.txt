@@ -1,0 +1,36 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS16_MI1000_D20_s6
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcown,
+The lay be matire my be tontanth the theat hands ar haphe us he hent?
+
+Methas ane awice my thand at mzoroug
+Yowns, tof is he me mil now
+Whane miree sen cin lat Het drovets, and the 
+---------------
+ nor the wand sel lind thal.
+
+ARDTHES:
+Any whar hais plow you lome.
+
+GLBES:
+Yeld I whould shou moth kleonWind tour Ceiingh the my
+Murive cenchieng thou mower; the the hantert the son; wor the:
+Ed thy a
+---------------
+ leng the af Pried my om.
+
+HKING E! KEN
+PNI:
+Whad al the Ede sthidin cour ay andy Ire tof han the!
+
+JUCUES:
+Whow mary thou coot whe mesor tof his.
+
+DKENNG ENIO:
+Yord, we; shar tit so a the your,
+Thourc
+---------------

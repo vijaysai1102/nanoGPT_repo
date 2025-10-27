@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS8_MI2000_D20_s12
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the comfort
+Thou art is not the dispoke be to take ruder the caress:
+Whith is wear her bard that a endrectime.
+
+HERMIONE:
+In heaven hearful the common of the begging,
+Even in the Heaven vitice, and lo
+---------------
+ now the was of lord disparted she coursey:
+As that speak you lord.
+I can pater the hope like the pake of the good
+Coming of a most rive and him he poor of his but
+That noble the son; which my lord, I 
+---------------
+ leave,
+That Prish my of thy house!
+
+QUEEN ELIZABETH:
+That he matter compasy and your banches after young to the marrity
+By poor my master and see-speak between threat strown;
+I have not us body with c
+---------------

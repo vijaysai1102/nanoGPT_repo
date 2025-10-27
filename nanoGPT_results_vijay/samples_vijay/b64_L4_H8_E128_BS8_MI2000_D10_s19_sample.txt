@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS8_MI2000_D10_s19
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romince.
+
+STARLOLENCE:
+Yet some be to take ruder the alause:
+Whith foul him to bard that ane are the hear's a with our
+Your proof in heart mile did that mire,
+Evencintlation in ov the death li
+---------------
+ now the was thelp in you his hust once,
+Nor and and the ty hell not know pater'd son
+For the the have on in on her pricks the more
+Will with in he poop of his but than nobre,
+If sorr igner my the do a
+---------------
+ lep at the dear?
+
+KING RICHARD III:
+Will is ward a canns and this heart as rand
+Hire to chan the of kning on knembly.
+
+HARY OF RIOLANUS:
+Bee his me not bet swith reaty the man in son,
+The your the muc
+---------------

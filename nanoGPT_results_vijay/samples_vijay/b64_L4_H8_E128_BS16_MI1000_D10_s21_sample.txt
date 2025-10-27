@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS16_MI1000_D10_s21
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the to ince.
+
+SOROLOLES:
+KI I sell way to tanth the the gatanss:
+Waith foulque, to bar dinth ane awice,
+And fast to zo our
+You somtef it he me mithed lincees if ees,
+I in lat Het drove the the me 
+---------------
+ now the wand welll now, and thus wouch by pruge aiss
+Wit you lom as nord peang ows hould shoul of ake onWind to theeribss to the
+Murive che hime sto of of he trume kind thrup
+If sor; wor the for thy a
+---------------
+ lepont that Pried my om.
+
+HKING ERD ENIO& K:
+Sadsel the Ede sto oin cour ay andy Ire tof han the!
+
+JUCUEE:
+Whow mary thou coong meam of a and sea-e?
+
+TULUS:
+The mreand thou sucines the weth ome.
+
+
+COR
+---------------

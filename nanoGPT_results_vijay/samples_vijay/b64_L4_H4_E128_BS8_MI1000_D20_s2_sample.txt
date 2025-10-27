@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS8_MI1000_D20_s2
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is the the a seak obe to tavegr--
+SABES:
+Tand bar ha he usthe he thar dilth ane awich my.
+
+
+DEROYUCzENNW:
+Yow, Lotof is he me mil now
+Whanes iree sen con lat Het drov the and
+Whe 
+---------------
+ nor the wand sel lind thal.
+
+AUETENE:
+Any sthar ais thew you lof the troupe eigh gond:
+I sho thet ake o Wind tour Ceiingh the myourr wa wee
+Tore sthoo mo the the the hanter fird sor; imy the:
+E win ma
+---------------
+ le ont thaf Prire my o my thy suporstied is:
+Ards bences and thinin cour ay andy Ire tof han theve youn pand,
+And gyou she wou bleam oor hanghs tou nomes the thilr and tho me tin so a the your
+Ong muc
+---------------

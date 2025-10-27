@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS8_MI1000_D10_s9
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romid own,
+The lade the disen boar to take Our my day.
+
+GLOUCESTER:
+Nurquel to barder:
+Some, are the conford, wize our
+Your proof is he commilend,
+Whices is ensent, will is the ov the down me 
+---------------
+ now the warm selving apparitens;
+Hon him spear the speak you lord.
+In Boodes, and whom the the call thou prove her piing
+In a most rive with ime strong of his but
+That nobrefure son; wors! my morre ma
+---------------
+ lepont the dear?
+
+KING RICHARD III:
+Will is wards be his and think the knear tey dreat
+Whou my care, the to to my grivent of the dom son.
+
+LADY BEND:
+The the me madany thou such me the well one.
+
+Thuc
+---------------

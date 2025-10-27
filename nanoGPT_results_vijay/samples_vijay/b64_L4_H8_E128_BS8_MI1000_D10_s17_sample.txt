@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS8_MI1000_D10_s17
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcown,
+The lay be madire my be to tanth the the gatanss:
+Want he us he hent ar dilth ane awilld of hand
+ar mzorour
+Yowns moof is he me mil nown that miree:
+I hain lat Het drove the the me 
+---------------
+ now the wand sel lind thal.
+
+ARDTENE:
+Any stupe aiss hew you lom as nord peanged sond:
+I shou moth kleouWind to do eiingh ene my
+Murive cenchire sto-o mo hild bute kind thruptef sor;
+Tor the for thy a
+---------------
+ lepont to fis reage hom.
+
+HKINLIE! K, Iby sardads beaced and thisin cour ay
+Andy Ire tof han the of knim to oke mary.
+
+HXARWO:
+I yom sour and seane nom bet sane mreand tho
+Whe ble win the your, him sc
+---------------

@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS16_MI2000_D10_s23
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo own,
+The lace the acress of our take rudes that hands:
+Whith foul he heath centless, endrice my fears,
+And of my to the to find come mile did but
+With enden contlain maid ov the do befec
+---------------
+ now the was of like him; let he me no my sorun;
+Or speak you lord.
+
+ROMEO:
+Yell love my lown the make of your what evices to the
+Murious in him consent of his but that none,
+Whe son; if he must with a
+---------------
+ learnt that Prince, home, and so have
+you as ard all his great him best any and
+Hirs to chan the will no to consmer.
+
+CLIO:
+Why my mest a and seement my heart's madany the
+What he will we your the muc
+---------------

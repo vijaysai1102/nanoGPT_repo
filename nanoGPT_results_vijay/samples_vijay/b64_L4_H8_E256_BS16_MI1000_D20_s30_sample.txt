@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS16_MI1000_D20_s30
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romince.
+
+STAOLO:
+God mader, my be to take rud my dother
+he arthip foul heart. Warweth, way, away, my farth,
+And of my to the to fither of milend;
+Whices is ensen minelation, drove to he with 
+---------------
+ now the wars!
+
+AULIZETH:
+The huse courly so sperains hew you lord.
+I may pater to whom the our to kill and so wherCerices to the
+Murt Edwers in he poop of his buter and thrught
+Is are of the father in
+---------------
+ leponts,
+Maderer, I hom.
+
+HENRY BROKENGBRY:
+Whad al the Edwast hoin cour ack tey very sold
+That to you me not be ary.
+
+HENRWORD OF YORK:
+Bef his me not be were threaty the sucking of the grove
+Of my c
+---------------

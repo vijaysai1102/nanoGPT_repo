@@ -1,0 +1,35 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS8_MI1000_D20_s10
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridce.
+
+SOROLOUS:
+Sir a set bear to take ruans me?
+LUCEO:
+You that us he hert?
+
+
+CORUS:
+Ae are the he fall to zo muse of the of is hearth!
+Where in a grivests, I in latient drove the deave t
+---------------
+ now the wars!
+
+AUrind that the he courly sprage and the tye will as not
+To this death thy word to killoan-nd to do piicks the mords
+What in him he poop of his buter and thrught! so;
+And he muftt thy a
+---------------
+ leponts,
+Madere?
+
+KING RUCHIING ERD:
+Noblight adate the are staining mukes.
+
+And Rex the have for the no to to me sume of thou bee?
+Is have my loordy many weath madand the may dised
+That the dead of c
+---------------

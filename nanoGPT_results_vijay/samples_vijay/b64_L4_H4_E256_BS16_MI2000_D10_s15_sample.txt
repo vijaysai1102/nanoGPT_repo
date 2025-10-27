@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS16_MI2000_D10_s15
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the time of whom and is not
+the dispositate of an hand my countents:
+Which is well have a determoan, away, my father,
+And I make thee to the constrait of the beg in
+eyes hand late: there's so dead?
+
+G
+---------------
+ now that a most plant than thou much with a crown.
+
+MENENIUS:
+That I cannot be the noble sword of all oath,
+And the city of a moder in his shore.
+The complaint unto the thrust for their honour's fearf
+---------------
+ leave, that Prince I am.
+
+HENRY BOLINGBROKE:
+Saday Warwick, stay, he stays is no much stoops after;
+Money on king, you shall have hand have myself
+And fortune's lady.
+
+CLAUDIO:
+I will not be denied,
+I
+---------------

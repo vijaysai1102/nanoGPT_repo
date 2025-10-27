@@ -1,0 +1,36 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS16_MI2000_D10_s7
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo own,
+The lay be made of boar to take rudes the change:
+Whith foul him to back that ane away, my fach,
+and God me
+Your proof is heart mile did but soir,
+You have latiHe in ov the do king 
+---------------
+ now the wars!
+
+AUFIDIUS:
+The husbard him so carial speak you love.
+I came and a down my like to that
+To Will the their as to the curive with in his so more.
+The
+DUCESTIO:
+The prison; if his shall no a
+---------------
+ leave,
+To fiers?
+
+KING RICHARD III:
+Will is wards be his greath fin course.
+
+QUEEN GLIZABETH:
+Ever you me not be brother for the that
+That he see--poor betwer in ready the caulins.
+
+QUEEN YORKE VI:
+My
+---------------

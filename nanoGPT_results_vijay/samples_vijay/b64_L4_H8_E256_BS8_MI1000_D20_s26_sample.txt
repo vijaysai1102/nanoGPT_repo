@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS8_MI1000_D20_s26
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rordd own, whis by be madiest bube to tak
+graves the and he ar baghed wich he that ding
+Hater with my farnstace zof my
+Yourse to that come mithed to caes if enseng,
+A latient drove the the kno
+---------------
+ now the wars well in apear.
+MAULIO:
+Thery pray the splaw you love.
+In But a sight whom the ou moth kleove not wher pribase,
+And for if his his now poor of his butes and thrught
+Is armight whe monge in
+---------------
+ leponts,
+Maderer gronom.
+
+HENRY ERCK:
+Shou and day Wick Edwell hoin cour aare.
+
+CRIUS:
+Whou my care, the to to my grives.
+
+WORK:
+Shat bear; my goor not be weare madand the may dies
+the well of the muc
+---------------

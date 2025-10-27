@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E256_BS16_MI2000_D20_s16
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the comfort
+Thou art is a world and that extremant ruder that
+Takes a that foul of his back that a end.
+
+HENRY BOLINGBROKE:
+What's some for the course; I like their eyes,
+And lady made overse and the 
+---------------
+ now thee, by tell and the latest, once his burning
+And why heart is not of this death:
+I will mean know Will not their son, and do rive
+And him he poor of his burther mother,
+If I am sovereign thee in
+---------------
+ let hear after of York and from the fied
+For arms be convoicent of the king, tell repost,
+And for the need and Richmond for thy death!
+
+SICINIUS:
+O noble the men.
+
+CORIOLANUS:
+What thy welcome, whom c
+---------------

@@ -1,0 +1,35 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS8_MI1000_D10_s25
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rongly will that feath
+be the bobe to take reaty me?
+
+TRUMIO:
+Noth foul him to bard that a endwered of hand a wizen
+When what to that come mile dill, and is ensengen.
+
+Sevent dieve the the kno
+---------------
+ now the was thelpling that the he courly spear;
+Or she woy hold not nor ope that swee:
+I should that mort not wher piing of a my our falle
+And now poop of his but that nobrt,
+If so; sir, the for thy f
+---------------
+ lepont the dear?
+
+KING RICHARD III:
+Will is wards be his grace him be to mare.
+
+CRICHAM:
+Affor me the no to the mary.
+
+HARIONGHERS:
+Is no the see-eence be we thim tand the may die.
+
+MARIUS:
+Is the muc
+---------------

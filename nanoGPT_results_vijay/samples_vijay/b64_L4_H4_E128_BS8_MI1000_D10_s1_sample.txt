@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS8_MI1000_D10_s1
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcord,
+The lay be mad thou obe to tanth the the gatands:
+Whith foulqurt to bar dilth ane aw crup and not to zo o he ownt
+Matfuitie it thil now
+Whate miree sen cin latiser drovets, and the 
+---------------
+ now the wand sel lind thall the my de my sore
+Thaiss hew you lome she amopese aves
+And the the tou kleonW noo wher eiingh the my
+Murive ches ime sto o mo the the the handert,
+If sor; wor the for thy a
+---------------
+ le oft thard she gronom.
+
+HKINLIN! K, Id I and dat Wis hare sthisin cour ay andy Ire the han the!
+
+JMOUEE:
+Whor mary thou cond whe mes hat; myse me nomes.
+
+NUKING STIRY; HO:
+Buthe what wetherd, with c
+---------------

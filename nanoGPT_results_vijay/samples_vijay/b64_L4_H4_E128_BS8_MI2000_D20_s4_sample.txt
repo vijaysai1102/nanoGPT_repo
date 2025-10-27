@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS8_MI2000_D20_s4
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord cown,
+The lay be madise a of our take rud my dagatans!
+You that us he hert?
+
+MEXENIO:
+I sway, my thank a will our to the to time come milend;
+What sind end not milatiser drove the the kno
+---------------
+ now the wars!
+
+AUlind that the he courmby stay; and the ty helvent
+In and and a dest my like the have on in on her pricks the mords
+That he him he poocte the the the dand rupt for trear.
+Where that I 
+---------------
+ lepont that Pried my of that-but
+Hart you say adate the a he this hence any and
+Hiry the have for his no to to sirry.
+
+HARD OF RICHARD II:
+Thy should many were threat strown;
+I he will well one will c
+---------------

@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H4_E128_BS16_MI1000_D10_s5
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord cown,
+The lave the a seak of oure.
+Sight the dat hath bard that us he hent?
+
+MEXENDIUS, Iwill my thand a om onour
+Yours, tof it he me mithed lincees if ees,
+Iche lat Het drove the the me 
+---------------
+ nown is wan thel lind thave thus won hiry prupe aiss
+Withy hour and nor opeter to whould shoull thak
+To Wind to thee ibrs to the our will echime
+s poor of he the the handert the son; wor the for thy a
+---------------
+ lepont that Pried my om.
+
+HKING ERD ENIO& K:
+Sad al the Edeest hoin cour ay andy Ire to cof my care.
+
+QUEENE:
+And gyou she not witht so a and sea-e nomes.
+
+NUKING VIORY; Henge in with liegh ome.
+
+
+COR
+---------------

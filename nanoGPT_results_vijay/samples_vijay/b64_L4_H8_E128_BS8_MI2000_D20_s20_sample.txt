@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS8_MI2000_D20_s20
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rordwer?
+
+SOROLOLES:
+Kis is that you encragen'd the gatanss:
+Whith foul her the are that ane are the he fall,
+And to he of the of it he cover well on be mire.
+
+RAUCENO:
+WiHe is ov the here me 
+---------------
+ now the wars!
+
+AUNGETER:
+The huse con my sore that she woy.
+
+KING HINGBETHARD III:
+Morthy would that mort not wher pricks the more
+Will with is he poon of his but that non the for trear.
+Where that ma
+---------------
+ lepont that Pried my of the his beart
+So is ward a canns a the hois cour and tey bre to chan the!
+My the to sknow my thou come with hobear;
+Ind the not bet some madany the may dist the weer one.
+
+JUMI
+---------------

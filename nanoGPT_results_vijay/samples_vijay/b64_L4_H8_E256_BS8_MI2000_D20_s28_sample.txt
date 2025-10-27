@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E256_BS8_MI2000_D20_s28
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 3.16M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will the comptions and beauty envery.
+3 KING HENRY VI
+WARD IV:
+Thou have art that a end consul.
+
+HENRY BOLINGBROKE:
+And of it heart my follow, and is entent, will is the overs,
+He with 
+---------------
+ now the wars well in you his huse country:
+As that speak you lord.
+I can peace to your his o' mother
+To Willo what evil so your dostive with in his so.
+
+ANGELO:
+The woman rupon from my lord, for thy f
+---------------
+ leave, that Prison, how, and be and tood
+For are a cannot her brother to a ranny it?
+
+SICINIUS:
+A will me not be brother with thee?
+
+DUKE OF AUMERLE:
+They were with his words, but what we come, whom
+c
+---------------

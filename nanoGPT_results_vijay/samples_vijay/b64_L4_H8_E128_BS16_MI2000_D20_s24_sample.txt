@@ -1,0 +1,31 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS16_MI2000_D20_s24
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romider.
+
+STABLOLLA:
+Go a see bobe to take One my call and bard that usque,
+And are that ane away, my facks a will our
+Your proof is heart mile dill caus is entent,
+A lad Here rove the deave p
+---------------
+ now the warm!
+
+AUNIUS:
+Thou lost would by stay baissh, why hold made you pater
+The hopery would that more coun her evices to the
+Murile conshired thou more for unther my crupt for to wors!
+
+QUEEN ELIZ
+---------------
+ lepont that Prieng, So my Here be!
+
+GRICHARD E:
+Fall, I am for hois courrear tey brefts chan the would me:
+Whose arm thou come and mest a and see--poor bet sone
+Are have stare in so a the condention.
+
+---------------

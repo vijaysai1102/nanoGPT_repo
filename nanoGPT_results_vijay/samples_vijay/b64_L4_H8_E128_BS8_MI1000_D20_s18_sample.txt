@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L4_H8_E128_BS8_MI1000_D20_s18
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 0.80M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is thert matise
+Thou bule anth the thealled
+h bar haphe us he hent ar dilth ane awich my.
+
+HDEREY Izorou 
+Yowns moof is he me mil ndill, at miree senghin;
+St Heaid ove thand he lo
+---------------
+ nour iser bousel lind thal.
+MARDTHES:
+Any sthe haiss hew you lof the troupete aves
+Angery wou moth kleo Wind tour Ceiingh the myour
+Thar ind ime sthoou o the the the bantert,
+If sor; ir hen whit thy a
+---------------
+ le ont thaf Prise my o my thy sur!
+KINS:
+Yok ardsal the Ene shevein cour ay andy Ire tof han theve youn pand,
+And gyor sheand gand mes ha anghs tou nomes the thilr and thow as dis win the your
+Our muc
+---------------
