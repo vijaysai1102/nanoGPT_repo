@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS16_MI1000_D20_s6
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord cown,
+The lay be mad thou obe to tant O-3 Some tatange:
+Whit he us he he thar dinth ane aw crup and not to zeem heat
+t proof in he me mil nowll, ae miree sen cin latiser,
+Whe the and the 
+---------------
+ now the wand sel lind thall the me de my sotur;
+Sis thew you lome she af peeel to whould shoul to ake onWind the the ibrs the my
+Murive che hime sto of of he the the dantert,
+If sor; igh the fit thy a
+---------------
+ leport that Pring my om.
+
+HKINLIN!
+
+
+CIN&I&:
+Shos be he Ed the hoin cour ay andy Ire the han the of knom to tkeem griting
+Thou bee mes hat he sever nomes the thimr and the me con sot the the me.
+
+TAMI
+---------------

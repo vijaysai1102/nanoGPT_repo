@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS16_MI2000_D20_s16
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be law be made the way of the grave
+Murderer: such back upon the bury the thoat,
+And that thank'st my bound own from the heart mile,
+Your bestires sent in the Hearting to thee.
+
+RI
+---------------
+ not the way of like him; and he made him speak;
+Or speak you love.
+I may part a deserve you, like again Willo what evils
+I'll make the Tower, my stand more for us:
+Or movertain, so; sir, the first you
+---------------
+ leave,
+To fight him home.
+
+KING EDWARD IV:
+That say you are state her to mark no my lord,
+And for his news. Poor brother, I would have have myself
+And fortune therefore; stand in this laughter,
+That c
+---------------

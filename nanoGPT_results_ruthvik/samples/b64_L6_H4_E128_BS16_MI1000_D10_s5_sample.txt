@@ -1,0 +1,36 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS16_MI1000_D10_s5
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the to incerfuen is to be madire
+Thou oure and Ond my dagatanss:
+Whith foul he hert?
+
+MEXEND:
+Ae away, my thand a wize our
+Yours makfuing I me mil nowll, ae miree,
+In cin latiHer drove the the me 
+---------------
+ noth is wais well in you herens;
+Hon him sot prinesss, why moll and not
+To this lownd:
+I swo the make on in on her eiibss to the
+Murive cees in he poor of heare
+To knome nrupt for ar igr to she wit ma
+---------------
+ leportiong dear?
+
+KIS? NG HKINLIE!
+
+
+CIN&Y:
+Wardsal the are sto oin cour aye tey ire to cof my care.
+
+QUEENE:
+And my thou come and mesore and see-eant,
+And swith reand the may in so a live bore.
+
+TUMI
+---------------

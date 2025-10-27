@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS16_MI1000_D20_s14
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo, will to love the acher bube
+Of take rud my call and bart thy puse,
+The that dilessanes with my fachse, and to heave
+shall fithe be this now and even weesen come?
+With in ov the and the 
+---------------
+ not the warm!
+
+AUNIUS:
+The the crece him soture and the ty more.
+
+SICIBELLA:
+And sond thy would that more not what evily of a most
+With censhired to of my heart
+To known not the son; wors! my morre ma
+---------------
+ leponts,
+Mader of my of thy his borre your and date the are
+Had upon must are not repts coff the with neesss,
+And such of the gainst of a the see-fonce;
+But with reason; and be her the well of the muc
+---------------

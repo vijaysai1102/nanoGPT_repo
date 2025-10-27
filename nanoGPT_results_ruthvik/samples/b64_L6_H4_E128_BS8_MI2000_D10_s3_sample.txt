@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS8_MI2000_D10_s3
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridle.
+
+SOMOLINES:
+He sir, and you ence hath my day, and be this foul him vetur
+detith ane away, and than a will our
+Your proof is here to lind, I cae midee send,
+A ladvent drove to deep me 
+---------------
+ now the was of like disparded shall chily:
+As that speak you lord.
+In Bodies is deserving would that more not what evices
+To the curn Edwen him conself of his but than none,
+Which are grean the with a
+---------------
+ let at that Prince, So my Here be!
+
+GRENTIO:
+Sad a my grace the disble king and your to countance.
+
+MONENE:
+Poor are thou contrant mest a the see-rengman.
+
+Secentrand Come, and he will we your the muc
+---------------

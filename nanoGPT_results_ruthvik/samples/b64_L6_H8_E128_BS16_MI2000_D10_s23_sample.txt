@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E128_BS16_MI2000_D10_s23
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bride will that feath
+This that you ence hath my dagain
+My art that us he hert? From thou endreath you,
+Than I honour
+You shall time come mile did but grieve sent,
+A latistled ov the conquing
+---------------
+ not thee just. A like that the he courses
+And that speak you lord.
+I was pater the hopery world that more would do evice
+I'll my curive with in he poor of his guitty
+And bruck for the great whith daug
+---------------
+ leave,
+That Prive I have a fair and to being
+Ard all his great him best any and off-night
+And for his neemy our marrition contranceme
+That he sevirengmant we men.
+
+CORIOLANUS:
+Where not us body.
+
+Thuc
+---------------

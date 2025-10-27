@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E256_BS8_MI2000_D20_s28
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo of and is the tribuness boars of all read
+My against be this foul his very coment.
+
+Let will me them the more the own of of this both!
+Where in a griefe, be come a venticion the deed?
+
+G
+---------------
+ now the wars!
+
+AUFIDIUS:
+The husband with a crecting him you:
+That I was pater the hope you, thou art of your what evices
+To the curse an eyes earth-of my hours
+To kindness first of my lord, for thy f
+---------------
+ leave,
+That Prince with the good of the discatros.
+Who shall not in the caare no breath offer for his neess,
+The brother winds and mest a changed-for me.
+
+GLOUCESTER:
+Your crown sword like body.
+
+JULI
+---------------

@@ -1,0 +1,31 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS16_MI2000_D10_s7
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridle.
+
+STABROLAND:
+
+Yet honour, and and Our my day hands:
+Whith foul heart. Warwith hoave away, my facks,
+And I must off Lord Citizen:
+All well in a grieve son minilation, drovered and
+Will
+---------------
+ not on that with lind the delish, onceive
+And that speak you lord's nothip this death:
+I should that more not when evices the most rive
+And him he poor of his but that noble the son; would must with a
+---------------
+ leave,
+That Prince, So my Here ben strebbing
+Ard all his great him best any and offends?
+
+AUTOLYCUS:
+One that I marry honour, go that bear herse.
+
+DUKE OF YORK:
+Are have stand in son, the counster'd c
+---------------

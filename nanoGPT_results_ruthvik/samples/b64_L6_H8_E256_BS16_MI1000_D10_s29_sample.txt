@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E256_BS16_MI1000_D10_s29
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they brides?
+
+SOMERSTER:
+Kind Percutae to take Our my call and barthing,
+He crown that dilt way, and the hearts a with must of
+the of it her than well of at mire,
+Evencing at Her drovers, and the 
+---------------
+ not the warm!
+
+AUFIDIUS:
+The husbace him so specties hiw you lord.
+I now, and god whom the the cauntled Will, when evices
+The most rive with in he poor of his but than noble,
+If so; sir. Where's thy f
+---------------
+ let at the dear?
+
+KING EDWARD IIV:
+Ay, but a ard all his great his best any and
+His his chan the well no to to me, you see,
+Why my mest a the see--powers the men.
+
+CORIOLANUS:
+Where not us bod, whom c
+---------------

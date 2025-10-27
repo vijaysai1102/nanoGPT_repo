@@ -1,0 +1,31 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS8_MI1000_D20_s10
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridce.
+
+SOLO:
+The the a see boad to take rud my dagatans!
+You that us he hert?
+
+MEXENIO:
+But come you, not to zorn heavent, to that come my held
+Whates is ensent, will is the ove the death p
+---------------
+ not the warm self in you like up, on him.
+
+SICIM:
+That why hold not not of this love my liked mother
+And in on her evily on a most rive cenchiends pooon
+And of under of thrught from; in his shall eyea
+---------------
+ leponts, and are gronow.
+
+HENRY VINIO:
+Shis wards be his grest hope cour a rand
+Hire to chan the will no to hearm such of and your me
+brother see-pentuen the me madany the may dised
+That the dead of c
+---------------

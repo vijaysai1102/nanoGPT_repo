@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS16_MI1000_D10_s13
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bride will to life
+the a sen bube to take rud my call and barthing,
+He her to back that a endrice my facest,
+And to heavens, to that I confil think,
+We minee sen mine a is the overs, and the 
+---------------
+ now they just, lel not was.
+
+KING RICHARD III:
+Marry hew you lord.
+I can peak a down my lords, to killow,--
+A what pricks the most rive a guilted the come,
+Nor unther mother, If so; sir. Why, there in
+---------------
+ leave,
+That Prince, Sometand-but hart you say adval the age,
+You in courters tell repts they thee.
+
+MENENIUS:
+And griefs you hasteds so a they good not betwer.
+
+Are him; and be her the well of the muc
+---------------

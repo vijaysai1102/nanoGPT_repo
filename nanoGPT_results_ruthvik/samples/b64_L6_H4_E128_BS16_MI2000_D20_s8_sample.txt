@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS16_MI2000_D20_s8
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridle.
+
+STABELLO:
+Which see but our take Onation all and bard thy pulque,
+And are that a endreath you, not to honour
+Yourself for the coursion'd in beg in eye,
+I in latiser drovition, and lo
+---------------
+ not the was thelp in appart thee wonching:
+As that speak you love us or of this death:
+I should that more not when evices the most rive
+And him he poopse the the day danger farfor trears to shall.
+
+RI
+---------------
+ lead the pairs of my of that be and too disand
+day my grace the disble prear tey brouth chan the will no to so;
+I shall fainth when hober and seement my heart's madany?
+
+HORTHUS OF YORK:
+Ay I have muc
+---------------

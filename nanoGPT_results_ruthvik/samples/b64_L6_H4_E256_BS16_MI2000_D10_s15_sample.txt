@@ -1,0 +1,37 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS16_MI2000_D10_s15
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be law them again boast and Still'n
+My have of barnishment quickly by their causes.
+
+HENRY BOLINGBROKE:
+When we have find you to the world eye
+To me not will it the over-pardon me 
+---------------
+ not one warm
+Well in a war.
+
+KING RICHARD II:
+What say why he's not know thee?
+
+ISABELLA:
+My lord?
+
+JULIET:
+And thee is so, and both will now; now poor good;
+We
+we known not the son; and there's thy f
+---------------
+ leave,
+To fight the former friend!
+
+GREGORY:
+Sadness, I have not in courteal tell the stood, and for
+the tongue marriage with your master and see--
+Some prince throat the cause he will be your
+honour:
+---------------

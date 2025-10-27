@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E256_BS8_MI1000_D10_s25
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridck.
+
+SORTHOLS:
+Sir a see but of eyars, the let tall
+My armither us of hert?
+
+MEXENES:
+But conselve, not to zuson:
+You shall time come mile did but griefe
+Evercing at Her drovers, and the 
+---------------
+ now the wan thelps not was.
+
+KING RICHARY:
+Such never, why held not not of this less
+For the like again Will to deCeiizes to them,
+Will we his now poop of his but than none
+The such; in he must with a
+---------------
+ leady, that Prieng you harts;
+Let as bed is a adval the agent of in courry.
+
+ANGERO:
+The have for his nevers, be are thou come,
+And how a and sevireng and were threan strown
+But me the were one him sc
+---------------

@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS8_MI1000_D10_s9
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridck.
+
+STANLUS:
+He mader, a way, we and rudder their of bard
+that us heart. Whe didshought with my facts,
+And of my to them of it her than would
+As ever we sen come a is the overs, and the 
+---------------
+ now they justiel.
+
+SICINIUS:
+As my now, you comfains, lety.
+
+Second Roman:
+Yet they king the like again Will to do pricks the most
+Will chem in he poop of his but than none,
+Who son; worst must with a
+---------------
+ leady,
+That Prive my of thy his beart you say adval the age
+And upon must are no breath chan the will nee
+And be arm thou come and mest a and see--poor betwer
+Which have strue in so a liegn on, whom c
+---------------

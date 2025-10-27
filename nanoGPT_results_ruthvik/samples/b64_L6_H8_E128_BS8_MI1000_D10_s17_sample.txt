@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E128_BS8_MI1000_D10_s17
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the meridce.
+
+SOROLOLES:
+Kigh sen bube to tant Ond my dagatangs:
+Watth foulque, tot ar dinth ane awich my thand a om onom,
+Yount, tof in he me milled to with is ees,
+I in lat Het drovets, and the 
+---------------
+ now that and selll note and the my deavey:
+As that salle you lome she roope sighte
+And the the to ake onWin o whe Ceiingh to thee srive
+And hime sto of of he the the dandert,
+If son; igh the fithte in
+---------------
+ lepontates dear?
+
+KIS? NG HKINLIE! K:
+
+Prisar:
+dave the a hest hoin cour aye tey ire to chan the!
+
+JUCUEE:
+Whou mary thou cond witht son to myse meent,
+And sand mromed thou sucin with the your,
+Thou c
+---------------

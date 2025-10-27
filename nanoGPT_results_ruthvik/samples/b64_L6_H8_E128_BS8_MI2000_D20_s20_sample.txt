@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E128_BS8_MI2000_D20_s20
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ then before
+Thow and is to be madiser bube to take rud my dagaid
+My arthip foul him to bard that a endwered of hand
+ath zongue
+Yours, to first be this now in begriene send,
+A lad Here rove to to kin t
+---------------
+ not they joy!
+
+AUNGELA:
+So the he concery: the baids hew you lord.
+In Bodies, and whom the she to killow, not when evicks to the
+Murt Edwere in he poop of his but that nobre,
+If son; if he must with a
+---------------
+ leport that Pried my of that be and to beis:
+Ard a cannot he this he strance tey brouth coff the will no to skeembry.
+
+BAMIRGAM:
+Shall have my lord?
+
+NORIO:
+And madany the suck her the well of the muc
+---------------

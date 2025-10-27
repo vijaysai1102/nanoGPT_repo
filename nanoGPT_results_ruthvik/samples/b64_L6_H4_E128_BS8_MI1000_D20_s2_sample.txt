@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS8_MI1000_D20_s2
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is the the aise my be to tanth the the tatanhs:
+Watt he us he he thar dilth ane aw crim and not to zeem heaow
+s moof is he me mit nowlll, egriree sen cin lat Heaid ov the and the 
+---------------
+ now that and wel lind thall the my de my sote
+Thais plow you lome she amope elives
+Ang the the tou kleo Wind to thee ibrs to the our wis in hime
+s poot o the the the bantert the son; wor the fot thy a
+---------------
+ le of whe fitre?
+
+KIS? ING KINLIE!
+
+
+
+SANICIUS:
+Fal the Ede shevein cour ay andy Ire thechan the!
+
+JORQEE:
+Moke mary thou cow gand mesor to my thou nomes.
+
+NORINARD:
+Re; shar tit so not uth ome with c
+---------------

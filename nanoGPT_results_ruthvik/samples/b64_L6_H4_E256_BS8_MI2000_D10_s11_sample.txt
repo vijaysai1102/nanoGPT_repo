@@ -1,0 +1,38 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS8_MI2000_D10_s11
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the thing
+That will be love the dispoked excuse
+Should my daggerous art this usurport.
+
+VOLUXENES:
+But when you falts of you have themself.
+
+LOUCES:
+What like their eyes hangs?
+With is over we the kno
+---------------
+ now of you.
+
+CAll:
+This all thus would by a children him you:
+That I came to live your his soldiers,
+And in his deComing we arm bourn a cheeks,
+And so more for unthan my breathful arms.
+Look for thy f
+---------------
+ leave,
+That Prince whose a first of the discated
+To the Earl of England's are no me?
+
+MENENIUS:
+A like me no knees you shall have hand he comes to power.
+
+GLOUCESTER:
+Your country will we be me.
+
+JULI
+---------------

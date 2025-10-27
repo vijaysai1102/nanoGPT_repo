@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E128_BS16_MI1000_D20_s22
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcowd,
+The lay be madiren bube to tanth the theatind
+he ard that us he hent ar dinth ane aw crup and
+Thand mzotoug
+You the of is heart mil nowll, ae miree sen cin latiHer,
+Wor the and the 
+---------------
+ now the wat thelll not wall the my dervey:
+As that splow you lome she amope to the hom
+the the to ake ond not whe Ceiingh the my
+Murive che hime sto of of heare
+To knome nrupt f sorr igh the fathte in
+---------------
+ leportites dere?
+
+KIS
+BENGHK:
+Lok!
+KING &UK:
+Shou be his get thisin cour ay andy Ire the han the!
+
+JOMENE:
+Whow mary thou cow gand mesor to myse meent,
+And swit mreand the mugh he win the your,
+Thourc
+---------------

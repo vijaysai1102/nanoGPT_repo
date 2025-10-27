@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E128_BS8_MI1000_D20_s18
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is the the a seak obe to tanth the the tatanhs:
+Watt he us het tot ar dinth ane aw crome.
+
+HDERD ING ING LYow, Latof is he me mithed,
+Whane miree sen cin lat Het drov the and the 
+---------------
+ now that and wel lind thal.
+-hut wou hiry sthe haiss hew you lome.
+I you peanght gond thy wou moth kleonW noot he Ceiingh toure domen,
+The his now poot o the the the hantert the son; igr the:
+Ed thy a
+---------------
+ lepont thag Prind my o my thy sup!
+
+HONGNI&:
+Sadst Wis hare sthisin cour ay andy Ire the han the!
+
+JORQEE:
+Whow mary thou cow gand mesore and seane nomes the thimr and thow the he win the your,
+Thourc
+---------------

@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS8_MI1000_D10_s1
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rory cown, hat lay be madire
+The you enaveg the the gatanss: on this us hem tot?
+
+MEXEND:
+Ae awilld you fald to zonoth
+You some ford hear thil nowll, ae miree sen cin latiHer drove the the me 
+---------------
+ now the wath selll not, and the my nevery:
+Aurd and thew you lome she and and ave whom
+the the to ake onWin o whe Ceiings to the ome wis geanden
+And of of he the the dandert, af sor; igh the frow.
+
+RI
+---------------
+ lepontates dear?
+
+KIS? NUSHK:
+Lea! I, you sar ads beaces and thisin cour ay and
+Hire the han the of knim to oke mary.
+
+HXORWO:
+I that beaten his me nomes the thimr and the me tin so and
+Sey on, with c
+---------------

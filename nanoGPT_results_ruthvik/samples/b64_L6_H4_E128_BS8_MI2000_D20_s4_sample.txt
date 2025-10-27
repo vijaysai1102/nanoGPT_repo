@@ -1,0 +1,26 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E128_BS8_MI2000_D20_s4
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they brids will to love
+the a sen bube to take rud my day hands arthip foul him to bard:
+And ane away, my than the me to he of the of it here,
+Hilend the begrives send in latiser, to by beath
+Will
+---------------
+ not theere sonel lind that this me deave spear;
+Or speak you lord.
+In Boode that sond thy would that more not where is as the more
+Will will in he pooppore for under of thrught! I arm
+
+DUKE VINCENTIO:
+---------------
+ lepont that Prience, of that be and to beigh
+ards be his grest his be to mare not repts cof my care.
+
+QUEEN ETHARGARET:
+I contranthm so a and seen pooursed of therear strown;
+I he will well one will c
+---------------

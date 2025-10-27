@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H4_E256_BS8_MI2000_D20_s12
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo off,
+The lay be made of bube the and ruder that hands:
+Whith is we wordst are that a endward my faces
+a will must of the office come mile dispace
+With eason mine at Hereford the dead of 
+---------------
+ now the ways well in a palet-husband him.
+
+Second Citizen:
+Hold not nor doth is look'd the the gates
+To Willo which I beseech my curse and his east,
+Like the rest that noble the son; which me the daug
+---------------
+ leave,
+That Prince with the good of the discarrds.
+Who have state he straight no much stood my care.
+
+QUEEN ELIZABETH:
+He come, my master and seems not be well.
+Are his words, in God's well one with c
+---------------

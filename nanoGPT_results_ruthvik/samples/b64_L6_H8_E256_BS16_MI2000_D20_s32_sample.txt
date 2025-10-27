@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E256_BS16_MI2000_D20_s32
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be lay be made to be exece.
+
+KING RICHARD II:
+I'll be hear queen, that did him enjoy.
+
+DUKE VINCENTIO:
+No, now, procfit the could well in a grief,
+Even in the service by the countr
+---------------
+ now the way of like him; he like honest
+Your princess, why he's name or doth lives
+And the sense and more country.
+
+ISABELLA:
+Good rive will dead, poor my heart
+To kind three I would not the father in
+---------------
+ leave,
+To fight death? It is but not, you are advance.
+
+ESCALUS:
+Good traitor, your honour
+To for his needs of my graves will be that
+bear they house; and we me love we would consent thee;
+To be good 
+---------------

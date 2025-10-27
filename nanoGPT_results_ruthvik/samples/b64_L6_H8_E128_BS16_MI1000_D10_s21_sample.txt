@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E128_BS16_MI1000_D10_s21
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the it incerf,
+The lay be madiren bube to tanter-and that hathe ar hiphe
+us he hent ar dinthoates with my thand a om onour
+Your proof it he cove the in that miree sen cintlat;
+Frid ove the the me 
+---------------
+ now the wan thell in as all thus wonch by prupe ases
+Withy hour and not opeter the hom
+the the to ake on in on hen evicks to the our wis in hime
+s poor of he the the dandert the son; igh to shis to ma
+---------------
+ lepont to fither gronom.
+
+HKINLL
+HENG IS&Y I
+Sad LUWAR:
+Ed thath in cour and tey Ire to cof my care.
+
+QUEENE:
+And my thou come and mesore and seame nomes.
+
+MERINA:
+Thy shou sucines the weth ome with c
+---------------

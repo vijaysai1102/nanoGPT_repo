@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E256_BS16_MI2000_D10_s31
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be love to be seem of our care?
+
+QUEEN ELIZABETH:
+What is here? God?
+
+MEXENIUS:
+Why cry you, not prize me,
+Your proceed account it now
+Than grievess not mile is the ovine, and
+Will
+---------------
+ not pierce me, less him all the receive
+No burn and plaw you love.
+
+GLOUCESTER:
+I will be worthy to thou hast when evil'd to the
+curst The shore strong of his guilty day,
+Turn for the great shall be a
+---------------
+ let him,
+Madam, we will brang such at your aways:
+The grace of his blood and tears your changes are
+Men pardon, marry how I would have have myself
+And fortune's made well be blood of the gods:
+One muc
+---------------

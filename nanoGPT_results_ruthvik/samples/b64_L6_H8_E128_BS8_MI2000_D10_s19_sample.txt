@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E128_BS8_MI2000_D10_s19
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bride with to on,
+Her
+This to of our take On the calleans be that foul him vet?
+Whethat a end condent hand a with must of the of in heart
+mile dill, and if the not milatient drove to do;
+Wher
+---------------
+ now they just, less disparitence, on him speak;
+Or speak you lord'd not of this down.
+
+GLOUCESTER:
+It on in on her piin to you, both will now;
+But poor of his but that noble the so;
+And he must with a
+---------------
+ let at to fier of my of.
+
+HENRY BOLINGBROKE:
+Sadire the Edward his bestraian tey it?
+
+MONTHUMBERLE:
+My means, be armition and gantly so a comes,
+As not be we thim take the caul her the well one.
+
+TABR
+---------------

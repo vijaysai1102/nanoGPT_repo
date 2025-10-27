@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E256_BS8_MI2000_D10_s27
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the time to descrace is a breath: and but
+A were thrust the gates startity foul of his back:
+Are a end conduct have a with our absent to the common!
+Where it is mine, so I in late,
+Since by the comme 
+---------------
+ now of you must his damnage the might in the princes
+Where your man knows and gods home.
+If do the king Willow have I beseech my curse,
+And him he past of his butter of thrusten so;
+And he must with a
+---------------
+ leave,
+That Prince with the gods, as if you wards.
+Who shall not in courteal tears,--
+
+SICINIUS:
+Now, no more be armition.
+
+KING RICHARD IIII:
+No-speak by wealth.
+
+CLARENCE:
+He hast not us body.
+
+JULI
+---------------

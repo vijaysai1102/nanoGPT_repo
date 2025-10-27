@@ -1,0 +1,37 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b64_L6_H8_E256_BS16_MI1000_D20_s30
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord come,
+The lay be mader to of our take rud my calleans!
+You that us he hert?
+
+MEXENIO:
+But come you, not to zonour
+Your proof in her that well of at misters,
+I in latise in overs, and the 
+---------------
+ not the warm!
+
+AUNIUS:
+The the crece him so coments the ty hell.
+
+SICIBELLA:
+And sond thy world that more not where is all of my
+Murise cenchience of the should
+To king thrust for trear her shall do a
+---------------
+ let at that Prient, So my and sor!
+
+GRICHARD II:
+The conourt this heart any and your to chan thee.
+
+MOLIO:
+Moke mary thou contrant?
+
+
+ESCARENIO:
+Seent and we the ready the crove me the well of the muc
+---------------
