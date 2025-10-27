@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS8_MI2000_D10_s19
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo of and is the the dide,
+And but take rup my call and barthipged will hert?
+For lassaies with my father to zoke heave
+And of in heart mile did that misters, he will is the overt,
+He with 
+---------------
+ now thee just, less dispare the me deave
+To cart is plaw you love up or of this death:
+I should that more not what pricks the more rive
+And him he poop of his butter of thrum!
+A so; sir, the father in
+---------------
+ let at that Prince, home, and such still is wards.
+Who have state he strance tey it--
+
+SICINIUS:
+Now, no that be brother you have hanour have seems?
+
+COMINIUS:
+Yor and thou such he the well of the muc
+---------------

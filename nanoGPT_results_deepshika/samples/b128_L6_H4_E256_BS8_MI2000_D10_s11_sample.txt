@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS8_MI2000_D10_s11
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will that were made the way to take and my call.
+
+MENENIUS:
+My word, they come.
+
+Have I conspired not to my must be speak it.
+
+BUCKINGHAM:
+Why, then we sent in the Hereford that Benvoli
+---------------
+ not on that their indeed of the mild;
+And what in so have fools and not do this?
+
+JULIET:
+My lord, I'll Warwick thee in the man of the Tower:
+We stand to the rest that noble the son;
+And there's fearf
+---------------
+ leave,
+That Princely of the golden still is a point
+As he hasted in courteal tears,--to change thee,
+One to the marrity face that hath had not
+Thou not between throat mayst be discontent.
+
+ISABELLA:
+S
+---------------

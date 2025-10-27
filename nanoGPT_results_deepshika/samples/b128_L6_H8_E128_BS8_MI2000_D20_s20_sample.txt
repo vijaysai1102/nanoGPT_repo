@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS8_MI2000_D20_s20
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Ronguch.
+
+SOMERCUS:
+Sir; is that you ename rud my day hands:
+Whith foul him to bard that a end contrued,
+Than wizorn he of the of is heart mile dill, and is entent,
+A ladistled ove the the kno
+---------------
+ now the wans!
+
+AUFIDIUS:
+The huse course spear the speak you lord.
+I now pear a do hopery would that more not where
+I baste a my our far in him he poopse the the deard;
+And firs son; ir his shall is a
+---------------
+ lead the she shee done my and such still is:
+Ard a my is a for him be to mare no it his chand
+Edvery the to to so such of and gace?
+Is have my lord not bet sent madany the may disten,
+The come, with c
+---------------

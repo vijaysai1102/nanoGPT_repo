@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS16_MI2000_D10_s23
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo of and is the the die;
+Thou but take Of the day hands art that us hath bed
+The lasome, and the confastature to heavent, to that I covert;
+And that misters, I in late make overtue,
+Which 
+---------------
+ not me that spel lind that the he coursey:
+As that speak you love she amost blave whom
+Is would that more not what evillain a more rive
+And him his so more for under him nrume for to so.
+Why, my fear 
+---------------
+ leave,
+That Prience Some a from and to be a wards.
+When Edward honours knears no Ruchasge from care.
+
+QUEEN ELIZABETH:
+He come with hobe to my lord?
+
+Nurse:
+The madam stand the he wilt well of the muc
+---------------

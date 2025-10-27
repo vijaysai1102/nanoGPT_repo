@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS8_MI2000_D20_s28
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the that be done.
+
+TANLEY:
+He madest my be does may them that hands:
+Which is heart they comes hoave away, my face,
+Or my lord, or some for the covert of the beg is eye.
+I in this maid over particion 
+---------------
+ now the was of lord dispart
+The march in the princess, why he's not know?
+The gods hopess would that more not what evil so,
+Still make his shame strong of his guilty day,
+Turn for treason when the pin
+---------------
+ leave,
+That Princely of thy house!
+
+QUEEN MARGARET:
+Good gentle upon my can and king to change.
+
+Nurse:
+Why, kneess, thou comes my master and seems?
+
+Nurse:
+The madam, shall be her the well of the muc
+---------------

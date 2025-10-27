@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS16_MI2000_D10_s31
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the time of descend to lay be made
+To be so let may them with themselvest after.
+
+MENENIUS:
+One was, away! what, not to hope he offence?
+
+MENENIUS:
+O would be eggivened, he will it the overtain.
+
+Firs
+---------------
+ now our wars!
+
+AUFIDIUS:
+The husband himself,
+And so have dined made my daughter son,
+And will tell thou hast our Coriolanus.
+
+First Citizen:
+Well have gone; the day did not the son; if he must not ha
+---------------
+ leave,
+To fight desire it and some still is a rost,
+And Edward hither to my lord, repose have for his need.
+Post, good sovereign, hath hath myself and fortune
+Will and show the head of with our highne
+---------------

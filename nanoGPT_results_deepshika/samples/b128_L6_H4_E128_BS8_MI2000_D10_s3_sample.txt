@@ -1,0 +1,25 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E128_BS8_MI2000_D10_s3
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo own,
+The law be madised bube to take rue my day;
+And be that foul him to ber ding of endw:
+Have than the men our to them of in heart mile,
+You, and if end not mile is the over of the kno
+---------------
+ now thee justiel like that the he couring:
+As that speak you love she rooke to the hope.
+Who thee killow in on her pricks the more
+Will with in he poor of his but that noble,
+If so; sir, the father ma
+---------------
+ leave,
+That Prien my of the his borrowed is a aday
+With Edward him best any and offends changed vow,
+On part, being my shall his that
+That he seem on my hear this tand the cauld
+To the were of the muc
+---------------

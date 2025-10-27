@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS8_MI1000_D20_s10
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridlew and is and the a set bube to tak
+graves the at of barthing our him to bardetly
+Have away, my facks a of or me
+Your prooffice you this nowll, and if the not mile is thereve to hee
+Will
+---------------
+ not theer bods like die; let hear cours:
+The priness hew you lord.
+In Boode sight whom the the to killow,---
+For Good by the the our farten, in he poopple,
+Nor under of thrught for this his shall eyea
+---------------
+ leponts,
+Madere?
+
+KING RICHARD II:
+All by say adath the are staten the king,
+And Ire to coffor care, the to to be griventy.
+
+KING RICHERD III:
+No--
+KING RICHARD II:
+O, who may be so not us bother of c
+---------------

@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS16_MI2000_D20_s32
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the that bring will be love
+the disposing of each graves with hands: but his us
+comments he that a endreat my facest, and I make
+what to thy heart malicial but some eyes hand;
+Still in thy son, and lo
+---------------
+ now on that will lind the deeds,
+How have stand and plaw you love's not do this?
+
+KING RICHARD II:
+It out is the treasons to the curse of his encounter
+The forgeter and thrust for the great of the pin
+---------------
+ leave, for dear?
+
+KING HENRY VI:
+Hark you are adval the Edward's in courteal tears,
+I should not what need so be against your gatest son,
+Be his men our present madam strong blinds the world.
+
+DUKE VI
+---------------

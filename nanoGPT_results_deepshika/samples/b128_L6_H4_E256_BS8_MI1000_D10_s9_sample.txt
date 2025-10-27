@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS8_MI1000_D10_s9
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bride will to life.
+KING RICHARD II:
+I way the the gatanss arthing our him to bard:
+And ane away, my fearst to zoin heavent
+Make in her that well in a grivee sent, will it the overt,
+He king 
+---------------
+ now the was of like die; let he my dear:
+The priness hiw you lord.
+I crown this I will the the comake of in on her prices to the
+Murile with in he poop of his but that nobre,
+If so; sir, the from this
+---------------
+ lears,
+That Prive Your my and such still is a aday
+Wich Edward his best a are no Rrepts off my care.
+
+QUEEN EQULIET:
+And you hasters of a an his me not be weare madan?
+
+BROWARD:
+He the were of the muc
+---------------

@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS16_MI1000_D10_s13
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridle fach is to be mader;
+Thou but take rud my call and bard thee usqueth.
+
+PAULIXENES:
+I am crown.
+
+HENRY BOLINGBROY:
+Good of it her that would that mire, son mine at Hercoulvets,
+Here me 
+---------------
+ now the was of like die; where he coursey:
+As that speak you lord.
+I came and a do the my world that more not what earth,
+The madest far in him conson more for the king
+On this from some to shall no f
+---------------
+ leave,
+That Prive York my friend, as by did wards.
+With Edward him best any and your to chan thee.
+
+MERCUTIO:
+And grives you hasterm so a comes to poor be were
+From the world to me the were of the muc
+---------------

@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS16_MI1000_D20_s22
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the tory cow and is so be mad the bube to tanth ther
+Bealied
+he ar hapie us he he thar dilas ane awiced you,
+Than o zo mupe ownt mat tis he me my welill,
+We miree sen cin lat Heaid ove thand beand
+---------------
+ nor tiserans!
+
+AJUS Fite lit hull cochiny prupe aiss hew you lom,
+He mamode sigod whoulll wo the make o Windon her piings to thelour was ind ime
+An so mower ore
+Tot and thrupt f son; iry the:
+En thy a
+---------------
+ le of whear Preed my o my and,
+Tharst you ake adst Wis hare sto din cour ay
+Andy Iry tou han the ould no ton knemar.
+And yo tha myom so a and seane nomes.
+
+MARINA:
+Thy shat suld me the weth ome wimerc
+---------------

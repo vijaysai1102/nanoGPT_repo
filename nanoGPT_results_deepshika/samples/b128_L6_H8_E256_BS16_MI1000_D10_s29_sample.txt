@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS16_MI1000_D10_s29
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romeo,
+To fater the the distrablance encesh them the
+That such backe us of her bard that and away,
+And have arry of me
+Your procfultion of my foling, and if eas,
+I in latise in overy, and the 
+---------------
+ now the was of like him; let hus would by:
+Sup the speak you lord.
+I came, this I wake the the come,
+And in on her piing of a my currse with in he poop
+The for unther my bruck for tream. Whose thre in
+---------------
+ leponts,
+Mader should me rany some still is a aday
+With againt hois course.
+
+ANGELO:
+The have for the no to to me grives your gave
+mast a and see-speak betwer'd madany the may distate thee.
+
+ISABELLA:
+---------------

@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS16_MI2000_D20_s24
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romed off father from mader;
+Thou but take Our my call and bard this usquet to bard:
+And ane away, my father, when must of the of is heart mile,
+You, and is ensen contlation in overs, and the 
+---------------
+ not the wars!
+
+AUFIDIUS:
+The huse course so againsss hew you lord.
+I was peak a do hopery word to kill and so when prickse,
+Some, shill we shire strow more for under of thrum
+If son; wors when the pra
+---------------
+ lead the shall be my of the his beart.
+
+Nirst Contlence, and this he strance tey brouts
+In not care, the to skeem such of I which hanour head
+see-spect betwer'd madany the make her the well one.
+
+Thuc
+---------------

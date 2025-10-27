@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E128_BS16_MI2000_D20_s8
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romed of and is to be madish,
+And but take Our my call and barthip foul him very
+From thou endrice my fach, and God me
+Your prove in her that well oncees in ensent, will is the overs,
+Here kno
+---------------
+ not the wars!
+
+AUFIDIUS:
+The huse course so againsss him you lord.
+I crown this dest my like to that more not when pricks to the
+crown hight in he poopples for under of thrumself:
+And my to shall no f
+---------------
+ lear the part.
+
+CORIOLANUS:
+I such still is wards be his grest honours.
+
+DUKE VINCENTIO:
+Aft you!
+
+JULIET:
+My seet you seee of I wam so a they good not betwer's madany?
+
+HORTINGS:
+Conce us bod, with c
+---------------

@@ -1,0 +1,27 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E128_BS8_MI1000_D20_s2
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is so be mad the bube ton.
+Sher and me gatangs:
+Want he us he he thar dilth ate aw crom and
+Than om o mup
+Yowns, tof is he me my welill, at miree s, hain lat Heaild G theand;
+Wh p
+---------------
+ nour iserans!
+Al lind te lit hul wou hiry prupe aiss hew you lof
+Un nor opete ave whould shou methak
+To Wind tour Ceiings the myourr wis geshire
+An so mo the the the bantert the sor; igr the:
+Ed thy a
+---------------
+ le ont thar Preed my o my and,
+The stid dis:
+Ard al the are sthinin cour ay and
+Hiry the han theve youn pand, bemar.
+And yo tha my mesour anghs tou nomes the thilr and the meald
+Th the wethe I the muc
+---------------

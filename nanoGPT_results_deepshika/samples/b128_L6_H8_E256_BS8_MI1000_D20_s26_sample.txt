@@ -1,0 +1,25 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS8_MI1000_D20_s26
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Rord cown,
+The lord the a see bobe to take rup my dagatanss:
+Whith fould a hert? Whethat ane away, my feand a wizong he ownt
+Make is he commilend the at mire, sond in latiser,
+What the the kno
+---------------
+ now the wat thelpling that the he cours:
+The priness hew you lord up or of this death:
+I should that mort not what piing of a most rive with ime
+A poon of his but that non this from; in his whit thy a
+---------------
+ lepont the dear?
+
+KING RICHARD II:
+And by as ard a my that for him be to a rate
+Hire to coff your his no to to be grivent and the hans haven his me?
+
+NORKING RICHARD II; stay, but what we your the muc
+---------------

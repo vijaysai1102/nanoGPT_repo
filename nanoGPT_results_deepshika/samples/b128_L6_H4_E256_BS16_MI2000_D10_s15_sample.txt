@@ -1,0 +1,35 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS16_MI2000_D10_s15
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the time of dear and is not to
+be set bubefore.
+Signior Murderer:
+I am no men's common by their caues with me.
+
+VOLUMNIA:
+In heavens, to the heart malice;
+Who even we sent in the Hereford to thee
+Will
+---------------
+ now on that will lind me with us.
+
+Second Citizen:
+'Tis tyranny and not do this death:
+I will mother, or in the duke in her at this
+for when it compassion. Now,
+The womb not to such a great white is a
+---------------
+ leave,
+That Prince will true-beding tood it:
+Sadness, I am for his blood and tears,--
+
+SICINIUS:
+Now, no more, my grave fair his lords;
+Shall seem and fortune's lady.
+
+CORIOLANUS:
+Contry to our highne
+---------------

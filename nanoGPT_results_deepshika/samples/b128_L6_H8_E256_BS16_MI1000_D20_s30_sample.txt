@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS16_MI1000_D20_s30
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridlew and is to be madise
+Thou but take rudned the hands arthiphed with hert?
+
+MEXENIZETH:
+I crame then the my to he own from that come my would
+As eveiree senter that Here rove the deave t
+---------------
+ now the wars!
+
+AUFIDIUS:
+The huse courly spear; and the tyee love she rooke
+And I whom the the to killow in on her pricks the my curntal gen,
+Well poop of he the deard nobreft for the greant:
+There ma
+---------------
+ lepont to firse?
+
+KING RICHARD II:
+Ay, but and day my grace the ding muke are no Rromes
+In not care know to to my grivest and gace?
+
+
+ESCARELA:
+Bother, by we this tand the make he will were one.
+
+Thuc
+---------------

@@ -1,0 +1,34 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS8_MI2000_D20_s12
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will that fear made to be exece.
+Shepherd:
+The hands are that us he had by the thoughts.
+
+MENENIUS:
+The murder thou shalt that I command did that mirders,
+Is not them in overselved to t
+---------------
+ not on that their in appare
+The male have preperation, why he's name or do this
+deserved the like again Will have Comillo with thou
+with her in his son of his but prayersers,
+If so; sir, the father in
+---------------
+ leave,
+That Prince with the house!
+
+QUEEN ELIZABETH:
+That he may in the cause no me?
+
+MENENIUS:
+I will me not be brother.
+
+ROMEO:
+It so, the have speak between threat me stay,
+Where not us body with c
+---------------

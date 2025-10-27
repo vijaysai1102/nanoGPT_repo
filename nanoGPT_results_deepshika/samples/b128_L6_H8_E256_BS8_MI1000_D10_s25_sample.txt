@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS8_MI1000_D10_s25
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romed, will that fell mader;
+Thou but take rud my day hands art thy pults
+The that diless, endrace my from the mento heave
+And of it her that would that mire, sent, will is there
+The and be no
+---------------
+ not the wat thelpling that these, course thes
+That speak you love us or of this destritess,
+And that more not what pricks the most rive
+And him he poor of his but that nobrefulf so;
+And he must with a
+---------------
+ leport the dear?
+
+KING RICHARD II:
+And by say aday my the her diding my any and
+Hire to coun the will neet anke mary.
+
+HENRWINGIO:
+Who have mysel---
+
+ROMIO:
+I'll reath thou such me the were of the muc
+---------------

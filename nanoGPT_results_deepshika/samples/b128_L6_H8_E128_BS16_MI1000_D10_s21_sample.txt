@@ -1,0 +1,33 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS16_MI1000_D10_s21
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the we willd is so be madised bobe to tan
+gruand that tange ar buphe us he he.
+
+VUCEXENIO:
+I ar crome.
+
+HDUMEY:
+Gorou,
+Yow, proof is he me my welll that miree,
+In cin lat Het drove the the me 
+---------------
+ nor the wan thelll now, all the my dervey:
+Aur the splaw you lome.
+In Bod ane ave whould swod moth kleonW---
+Ford Ceiingh toure do this we hisengs ofor ofer;
+Whe the hanter firf sor; igh the fot thy a
+---------------
+ le ont thar Preed my of.
+
+HKING ERDWARD &
+KING dat Wis sour sto din cour ay
+Andy Iry the har the wey, ne tou,
+And syou se coour my mesore an hind--powmes.
+
+MARINA:
+Thy shat sucin: win the your, wis sc
+---------------

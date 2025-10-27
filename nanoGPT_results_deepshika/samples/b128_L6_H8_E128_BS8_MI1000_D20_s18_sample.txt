@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS8_MI1000_D20_s18
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is so bee
+bairer bobe tontanth the the gatanss: thith fous he he.
+War dilas ate awice myou,
+Than om o mupe owhth tof is he me mil ndill,
+We miree senghin lat Heaid ove thand beand
+---------------
+ nour iserans!
+Al lind me lit huce co hiry prupe aissth why.
+
+KING HIRD ICHARD gowe hom
+Is wod moth kleo Whe o wher piibll the my,
+Cris hand hire sthoou ower; the the danthrtht f sono igr the:
+Ed thy a
+---------------
+ le of whear Preed my o my and,
+The stoublis:
+Ard al the are she din cour ay ane
+Hiry the han theve youn pand, bemary.
+
+HARIRG MIUS:
+I
+That hens tou nours the thilr and thowngh in soth the your,
+Thourc
+---------------

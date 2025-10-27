@@ -1,0 +1,26 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E128_BS8_MI1000_D10_s17
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcow and is the the a seak obe to tanth the theald
+and bar highe us he he thar dilth ane awiced ord
+That to zo mup
+Yowns, tof is healt mil nown that miree sen cin lat Heaid ove thand;
+Whe 
+---------------
+ nor that and welll nore and thull onchiry:
+Au thais pliw you lomake nor
+To thig downd thy woullle ake o Wind tour Corings the myous
+Th han hid now poor ower; the the bantert,
+If sor; wor the: my thy a
+---------------
+ le of whear Pried my o my and,
+Tharst you ake adst Wis hare sto din cour ay
+Andy Iry the han the ould ne ton kis,
+And ise coour my mesor the hind-s nomes.
+
+MARINA:
+Thy shat suld me the weth ome wim sc
+---------------

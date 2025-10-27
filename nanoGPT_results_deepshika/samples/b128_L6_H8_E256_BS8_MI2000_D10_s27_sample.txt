@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H8_E256_BS8_MI2000_D10_s27
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the field
+That will be law be made of boar to take and my dage.
+
+MENENIUS:
+My lord, my lord, lady, end when you fall prizoke heavens
+Make in her to slanding, and in easy heir ladies,
+The bosom, and lo
+---------------
+ nor pilerance, let not was.
+
+KING RICHARD III:
+Marry, let me love us trade this love many world:
+Sake of your what evil soul that should in him,
+And of my heart
+To kindness forfeit; and his land, I kn
+---------------
+ let him, and she grows him from and the did:
+Should they are thing by thee, and your tongues after;
+Men pardon me such of and gallyman hateful
+Thou noble the mine of your cause he will suges;
+The must
+---------------

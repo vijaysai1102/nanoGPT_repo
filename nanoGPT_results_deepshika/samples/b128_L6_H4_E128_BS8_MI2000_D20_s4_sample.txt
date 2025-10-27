@@ -1,0 +1,29 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E128_BS8_MI2000_D20_s4
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the Romed of and is the the dided bube to tak
+Brid my dagatanss: and his us hat to bardetle
+Hate away, my fach the me to he own from that come milend;
+Whice misters, acin latist in ove the death p
+---------------
+ now the wars!
+
+AUll die all the me deviry prup the speak you love.
+I made and a do hopery would that mort not where
+I ball of my our far in him his so more.
+The he king thrup af son; in his shall do a
+---------------
+ lear the she reve my of the his bear,
+Sbut and day my that for him be to mart.
+
+CRICIO:
+I for for the neever knemary.
+
+HARTIO:
+I what be to my lord?
+
+The the me ladand the make he will well one will c
+---------------

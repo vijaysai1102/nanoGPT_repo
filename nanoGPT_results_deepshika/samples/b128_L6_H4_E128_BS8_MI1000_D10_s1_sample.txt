@@ -1,0 +1,28 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E128_BS8_MI1000_D10_s1
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the the wcowe,
+The lay be madiest bobe to tanth the the tatanss:
+Watt he us he he thar dilth ane aw crom and
+Than om o mugh owns matf is he me mil ndill,
+
+Wh iree sen cin lat Het drove the the me 
+---------------
+ nor onderans!
+Alll now wall thul wouch by prupe aissth why.
+
+KING HIRD ISpetelaves, thery woul to ake o Windon he Ceiings to the,
+Crive we hide he poor ower; the the dantert,
+If sor; igh the fot thy a
+---------------
+ lepont thar Preed my o my and,
+Tharst you ake adst caced and thidin cour ay
+Andy Iry the han the ould ne ton keem sy thou cow gand?
+
+
+TUSICENIO:
+Se nomes the thilr and tho mug in sot the the mend omuc
+---------------

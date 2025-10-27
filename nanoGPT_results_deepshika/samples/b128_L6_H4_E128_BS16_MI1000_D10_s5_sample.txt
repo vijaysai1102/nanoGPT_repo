@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E128_BS16_MI1000_D10_s5
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the to incere,
+The lay be madiest bobe to tanth the the tatangs:
+Watth foul hat to bar dinth ate awick my.
+
+HDERDY Rzorou,
+You shat ford he me milend to cath isee sen cin lat Heachter the and the 
+---------------
+ nour iserans!
+
+AUKE F RICESTHARD:
+No hiry stupe aiss hew you lome.
+In Bod ate ave whould shoul to ake o Windo wher eiings to the our wis in hime sto o mo the the the ome bruptef sor;
+To he muf thin in
+---------------
+ le of wef fitre?
+
+KING LUCHIINL:
+Har, you and adst With a he thisin cour ay and
+Hire the have for hyoun pand, bemary.
+You coou whe mesore an his of nomes.
+
+MARINA:
+Thy shou sucin: win the your, with c
+---------------

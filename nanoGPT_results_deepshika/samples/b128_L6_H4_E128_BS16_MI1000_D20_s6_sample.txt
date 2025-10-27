@@ -1,0 +1,32 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E128_BS16_MI1000_D20_s6
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 1.19M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the the tor
+wcow and is so be mad the bube to tanth ther mealatanss
+You that us he he thar dilas ane awiced
+And ford to zo muge ownt, tof is healt my welill,
+We miree sen cin lat Hetherer the and the 
+---------------
+ nor the wand sel lind teal.
+MARD:
+Noch by sthar aiss hew you lomake nor
+To thigh sond thy woullle ake o Windo wher piibll the my,
+Cris hand hire sthou mower ore
+To knome nrupt f sor; igr the:
+Ed thy a
+---------------
+ le ont to feare?
+
+KING INGHIING E!
+KING &
+
+LINI:
+The he Ede sthidin cour ay andy Ire toul
+An the whyou me nonke mary.
+
+HARIRG MIOF mesore an hy tou nours the thild and that sucin soth lit your
+Ong muc
+---------------

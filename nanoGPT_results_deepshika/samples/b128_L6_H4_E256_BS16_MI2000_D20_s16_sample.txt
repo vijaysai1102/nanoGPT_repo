@@ -1,0 +1,38 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS16_MI2000_D20_s16
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the time of whom and is not the dispoker'd
+Of that rude the gatess bard that us have been to last,
+But when you fall out of my tongue to you.
+
+DUKE OF YORK:
+When is the neck that Hereford that Benving
+---------------
+ now on that with lind me with us.
+
+BUCKINGHAM:
+Marcius, tyranly master more to the queen.
+
+JULIET:
+It only so what evil so, and do rive with you.
+
+CALUS:
+Now they have none first of my kneel:
+'Tis you
+---------------
+ leave, that Prince with the house!
+
+QUEEN ELIZABETH:
+That's shall he strange thy vex to change care.
+
+QUEEN MARGARET:
+You are gone?
+
+GLOUCESTER:
+Gentle between through the crown of the world.
+
+DUKE VI
+---------------

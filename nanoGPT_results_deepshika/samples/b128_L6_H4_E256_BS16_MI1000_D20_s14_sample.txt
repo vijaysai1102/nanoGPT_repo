@@ -1,0 +1,30 @@
+Overriding: out_dir = /content/drive/MyDrive/nanoGPT_results/b128_L6_H4_E256_BS16_MI1000_D20_s14
+Overriding: start =  
+Overriding: num_samples = 3
+Overriding: max_new_tokens = 200
+number of parameters: 4.74M
+Loading meta from data/shakespeare_char/meta.pkl...
+ the they bridlew and is to be mader;
+Thou but take rud my call and be this foul him to beced?
+
+DUKE VINCENTIO:
+What a wize our to the to fir heart my folight,
+Which eas not mile is the ove the death p
+---------------
+ now the wars!
+
+AUFIDIUS:
+The huse contly so comenter hew you lord.
+I came and a do hom.
+
+LEONTES:
+I let Will to do prick, the my carion with in he poop
+
+And strume know thrught for this hearth the pra
+---------------
+ lear the shall be my of the his bear,
+Shois wards be his and this heart any and
+Hire to chan the fork no to to be such of the gace?
+Is have myse me not betwer'd madany the cauld
+To the were of the muc
+---------------
